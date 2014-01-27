@@ -1,0 +1,13 @@
+[General]
+Language = 1
+Hexview = 1
+gamemode = 1
+AdvancedMode = 1
+AutoSaveConfig = 1
+AutoSavelist = 0
+SpriteSource = 0
+[File]
+Hexviewvalue = 16
+filepath = F:\projectZ\test\
+igtfpath = D:\
+igttpath = D:\

@@ -1,0 +1,14 @@
+F:\Project\MyProgram\AHGE 1.1\bin\aleafia_reslang_id.dll
+F:\Project\MyProgram\AHGE 1.1\bin\aleafia_reslang_id.pdb
+F:\Project\MyProgram\AHGE 1.1\aleafia_reslang_id\obj\Release\aleafia_reslang_id.Properties.Resources.resources
+F:\Project\MyProgram\AHGE 1.1\aleafia_reslang_id\obj\Release\aleafia_reslang_id.csproj.GenerateResource.Cache
+F:\Project\MyProgram\AHGE 1.1\aleafia_reslang_id\obj\Release\aleafia_reslang_id.dll
+F:\Project\MyProgram\AHGE 1.1\aleafia_reslang_id\obj\Release\aleafia_reslang_id.pdb
+F:\Project\MyProgram\AHGE 1.1\aleafia_reslang_id\obj\Release\aleafia_reslang_id.csprojResolveAssemblyReference.cache
+F:\projectZ\Tools\__MyProgram\AHGE 1.1\bin\aleafia_reslang_id.dll
+F:\projectZ\Tools\__MyProgram\AHGE 1.1\bin\aleafia_reslang_id.pdb
+F:\projectZ\Tools\__MyProgram\AHGE 1.1\aleafia_reslang_id\obj\Release\aleafia_reslang_id.csprojResolveAssemblyReference.cache
+F:\projectZ\Tools\__MyProgram\AHGE 1.1\aleafia_reslang_id\obj\Release\aleafia_reslang_id.Properties.Resources.resources
+F:\projectZ\Tools\__MyProgram\AHGE 1.1\aleafia_reslang_id\obj\Release\aleafia_reslang_id.csproj.GenerateResource.Cache
+F:\projectZ\Tools\__MyProgram\AHGE 1.1\aleafia_reslang_id\obj\Release\aleafia_reslang_id.dll
+F:\projectZ\Tools\__MyProgram\AHGE 1.1\aleafia_reslang_id\obj\Release\aleafia_reslang_id.pdb

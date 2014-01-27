@@ -1,0 +1,17 @@
+C:\Users\Andi\Documents\Visual Studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\bin\Release\nclr 8bit calculation.exe
+C:\Users\Andi\Documents\Visual Studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\bin\Release\nclr 8bit calculation.pdb
+C:\Users\Andi\Documents\Visual Studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\obj\Release\nclr_8bit_calculation.Form1.resources
+C:\Users\Andi\Documents\Visual Studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\obj\Release\nclr_8bit_calculation.Properties.Resources.resources
+C:\Users\Andi\Documents\Visual Studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\obj\Release\nclr 8bit calculation.csproj.GenerateResource.Cache
+C:\Users\Andi\Documents\Visual Studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\obj\Release\nclr 8bit calculation.exe
+C:\Users\Andi\Documents\Visual Studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\obj\Release\nclr 8bit calculation.pdb
+F:\Project\MyProgram\nclr 8bit calculation\nclr 8bit calculation\obj\Release\nclr 8bit calculation.exe
+F:\Project\MyProgram\nclr 8bit calculation\nclr 8bit calculation\obj\Release\nclr 8bit calculation.pdb
+F:\Project\MyProgram\nclr 8bit calculation\nclr 8bit calculation\obj\Release\nclr 8bit calculation.csprojResolveAssemblyReference.cache
+F:\Project\MyProgram\nclr 8bit calculation\nclr 8bit calculation\obj\Release\nclr_8bit_calculation.Form1.resources
+F:\Project\MyProgram\nclr 8bit calculation\nclr 8bit calculation\obj\Release\nclr_8bit_calculation.Properties.Resources.resources
+F:\Project\MyProgram\nclr 8bit calculation\nclr 8bit calculation\obj\Release\nclr 8bit calculation.csproj.GenerateResource.Cache
+F:\Project\MyProgram\nclr 8bit calculation\nclr 8bit calculation\bin\Release\nclr 8bit calculation.exe
+F:\Project\MyProgram\nclr 8bit calculation\nclr 8bit calculation\bin\Release\nclr 8bit calculation.pdb
+F:\projectZ\Tools\__MyProgram\_other\nclr 8bit calculation\nclr 8bit calculation\obj\Release\nclr 8bit calculation.exe
+F:\projectZ\Tools\__MyProgram\_other\nclr 8bit calculation\nclr 8bit calculation\obj\Release\nclr 8bit calculation.pdb

@@ -1,0 +1,639 @@
+﻿0,None,0
+1,Master Ball,0
+2,Ultra Ball,0
+3,Great Ball,0
+4,Poké Ball,0
+5,Safari Ball,0
+6,Net Ball,0
+7,Dive Ball,0
+8,Nest Ball,0
+9,Repeat Ball,0
+10,Timer Ball,0
+11,Luxury Ball,0
+12,Premier Ball,0
+13,Dusk Ball,0
+14,Heal Ball,0
+15,Quick Ball,0
+16,Cherish Ball,0
+17,Potion,0
+18,Antidote,0
+19,Burn Heal,0
+20,Ice Heal,0
+21,Awakening,0
+22,Parlyz Heal,0
+23,Full Restore,0
+24,Max Potion,0
+25,Hyper Potion,0
+26,Super Potion,0
+27,Full Heal,0
+28,Revive,0
+29,Max Revive,0
+30,Fresh Water,0
+31,Soda Pop,0
+32,Lemonade,0
+33,Moomoo Milk,0
+34,EnergyPowder,0
+35,Energy Root,0
+36,Heal Powder,0
+37,Revival Herb,0
+38,Ether,0
+39,Max Ether,0
+40,Elixir,0
+41,Max Elixir,0
+42,Lava Cookie,0
+43,Berry Juice,0
+44,Sacred Ash,0
+45,HP Up,0
+46,Protein,0
+47,Iron,0
+48,Carbos,0
+49,Calcium,0
+50,Rare Candy,0
+51,PP Up,0
+52,Zinc,0
+53,PP Max,0
+54,Old Gateau,0
+55,Guard Spec.,0
+56,Dire Hit,0
+57,X Attack,0
+58,X Defend,0
+59,X Speed,0
+60,X Accuracy,0
+61,X Special,0
+62,X Sp. Def,0
+63,Poké Doll,0
+64,Fluffy Tail,0
+65,Blue Flute,0
+66,Yellow Flute,0
+67,Red Flute,0
+68,Black Flute,0
+69,White Flute,0
+70,Shoal Salt,0
+71,Shoal Shell,0
+72,Red Shard,0
+73,Blue Shard,0
+74,Yellow Shard,0
+75,Green Shard,0
+76,Super Repel,0
+77,Max Repel,0
+78,Escape Rope,0
+79,Repel,0
+80,Sun Stone,0
+81,Moon Stone,0
+82,Fire Stone,0
+83,Thunderstone,0
+84,Water Stone,0
+85,Leaf Stone,0
+86,TinyMushroom,0
+87,Big Mushroom,0
+88,Pearl,0
+89,Big Pearl,0
+90,Stardust,0
+91,Star Piece,0
+92,Nugget,0
+93,Heart Scale,0
+94,Honey,0
+95,Growth Mulch,0
+96,Damp Mulch,0
+97,Stable Mulch,0
+98,Gooey Mulch,0
+99,Root Fossil,0
+100,Claw Fossil,0
+101,Helix Fossil,0
+102,Dome Fossil,0
+103,Old Amber,0
+104,Armor Fossil,0
+105,Skull Fossil,0
+106,Rare Bone,0
+107,Shiny Stone,0
+108,Dusk Stone,0
+109,Dawn Stone,0
+110,Oval Stone,0
+111,Odd Keystone,0
+112,Griseous Orb,0
+113,???,0
+114,???,0
+115,???,0
+116,Douse Drive,0
+117,Shock Drive,0
+118,Burn Drive,0
+119,Chill Drive,0
+120,???,0
+121,???,0
+122,???,0
+123,???,0
+124,???,0
+125,???,0
+126,???,0
+127,???,0
+128,???,0
+129,???,0
+130,???,0
+131,???,0
+132,???,0
+133,???,0
+134,Sweet Heart,0
+135,Adamant Orb,0
+136,Lustrous Orb,0
+137,Greet Mail,0
+138,Favored Mail,0
+139,RSVP Mail,0
+140,Thanks Mail,0
+141,Inquiry Mail,0
+142,Like Mail,0
+143,Reply Mail,0
+144,BridgeMail S,0
+145,BridgeMail D,0
+146,BridgeMail T,0
+147,BridgeMail V,0
+148,BridgeMail M,0
+149,Cheri Berry,0
+150,Chesto Berry,0
+151,Pecha Berry,0
+152,Rawst Berry,0
+153,Aspear Berry,0
+154,Leppa Berry,0
+155,Oran Berry,0
+156,Persim Berry,0
+157,Lum Berry,0
+158,Sitrus Berry,0
+159,Figy Berry,0
+160,Wiki Berry,0
+161,Mago Berry,0
+162,Aguav Berry,0
+163,Iapapa Berry,0
+164,Razz Berry,0
+165,Bluk Berry,0
+166,Nanab Berry,0
+167,Wepear Berry,0
+168,Pinap Berry,0
+169,Pomeg Berry,0
+170,Kelpsy Berry,0
+171,Qualot Berry,0
+172,Hondew Berry,0
+173,Grepa Berry,0
+174,Tamato Berry,0
+175,Cornn Berry,0
+176,Magost Berry,0
+177,Rabuta Berry,0
+178,Nomel Berry,0
+179,Spelon Berry,0
+180,Pamtre Berry,0
+181,Watmel Berry,0
+182,Durin Berry,0
+183,Belue Berry,0
+184,Occa Berry,0
+185,Passho Berry,0
+186,Wacan Berry,0
+187,Rindo Berry,0
+188,Yache Berry,0
+189,Chople Berry,0
+190,Kebia Berry,0
+191,Shuca Berry,0
+192,Coba Berry,0
+193,Payapa Berry,0
+194,Tanga Berry,0
+195,Charti Berry,0
+196,Kasib Berry,0
+197,Haban Berry,0
+198,Colbur Berry,0
+199,Babiri Berry,0
+200,Chilan Berry,0
+201,Liechi Berry,0
+202,Ganlon Berry,0
+203,Salac Berry,0
+204,Petaya Berry,0
+205,Apicot Berry,0
+206,Lansat Berry,0
+207,Starf Berry,0
+208,Enigma Berry,0
+209,Micle Berry,0
+210,Custap Berry,0
+211,Jaboca Berry,0
+212,Rowap Berry,0
+213,BrightPowder,0
+214,White Herb,0
+215,Macho Brace,0
+216,Exp. Share,0
+217,Quick Claw,0
+218,Soothe Bell,0
+219,Mental Herb,0
+220,Choice Band,0
+221,King's Rock,0
+222,SilverPowder,0
+223,Amulet Coin,0
+224,Cleanse Tag,0
+225,Soul Dew,0
+226,DeepSeaTooth,0
+227,DeepSeaScale,0
+228,Smoke Ball,0
+229,Everstone,0
+230,Focus Band,0
+231,Lucky Egg,0
+232,Scope Lens,0
+233,Metal Coat,0
+234,Leftovers,0
+235,Dragon Scale,0
+236,Light Ball,0
+237,Soft Sand,0
+238,Hard Stone,0
+239,Miracle Seed,0
+240,BlackGlasses,0
+241,Black Belt,0
+242,Magnet,0
+243,Mystic Water,0
+244,Sharp Beak,0
+245,Poison Barb,0
+246,NeverMeltIce,0
+247,Spell Tag,0
+248,TwistedSpoon,0
+249,Charcoal,0
+250,Dragon Fang,0
+251,Silk Scarf,0
+252,Up-Grade,0
+253,Shell Bell,0
+254,Sea Incense,0
+255,Lax Incense,0
+256,Lucky Punch,0
+257,Metal Powder,0
+258,Thick Club,0
+259,Stick,0
+260,Red Scarf,0
+261,Blue Scarf,0
+262,Pink Scarf,0
+263,Green Scarf,0
+264,Yellow Scarf,0
+265,Wide Lens,0
+266,Muscle Band,0
+267,Wise Glasses,0
+268,Expert Belt,0
+269,Light Clay,0
+270,Life Orb,0
+271,Power Herb,0
+272,Toxic Orb,0
+273,Flame Orb,0
+274,Quick Powder,0
+275,Focus Sash,0
+276,Zoom Lens,0
+277,Metronome,0
+278,Iron Ball,0
+279,Lagging Tail,0
+280,Destiny Knot,0
+281,Black Sludge,0
+282,Icy Rock,0
+283,Smooth Rock,0
+284,Heat Rock,0
+285,Damp Rock,0
+286,Grip Claw,0
+287,Choice Scarf,0
+288,Sticky Barb,0
+289,Power Bracer,0
+290,Power Belt,0
+291,Power Lens,0
+292,Power Band,0
+293,Power Anklet,0
+294,Power Weight,0
+295,Shed Shell,0
+296,Big Root,0
+297,Choice Specs,0
+298,Flame Plate,0
+299,Splash Plate,0
+300,Zap Plate,0
+301,Meadow Plate,0
+302,Icicle Plate,0
+303,Fist Plate,0
+304,Toxic Plate,0
+305,Earth Plate,0
+306,Sky Plate,0
+307,Mind Plate,0
+308,Insect Plate,0
+309,Stone Plate,0
+310,Spooky Plate,0
+311,Draco Plate,0
+312,Dread Plate,0
+313,Iron Plate,0
+314,Odd Incense,0
+315,Rock Incense,0
+316,Full Incense,0
+317,Wave Incense,0
+318,Rose Incense,0
+319,Luck Incense,0
+320,Pure Incense,0
+321,Protector,0
+322,Electirizer,0
+323,Magmarizer,0
+324,Dubious Disc,0
+325,Reaper Cloth,0
+326,Razor Claw,0
+327,Razor Fang,0
+328,TM01,0
+329,TM02,0
+330,TM03,0
+331,TM04,0
+332,TM05,0
+333,TM06,0
+334,TM07,0
+335,TM08,0
+336,TM09,0
+337,TM10,0
+338,TM11,0
+339,TM12,0
+340,TM13,0
+341,TM14,0
+342,TM15,0
+343,TM16,0
+344,TM17,0
+345,TM18,0
+346,TM19,0
+347,TM20,0
+348,TM21,0
+349,TM22,0
+350,TM23,0
+351,TM24,0
+352,TM25,0
+353,TM26,0
+354,TM27,0
+355,TM28,0
+356,TM29,0
+357,TM30,0
+358,TM31,0
+359,TM32,0
+360,TM33,0
+361,TM34,0
+362,TM35,0
+363,TM36,0
+364,TM37,0
+365,TM38,0
+366,TM39,0
+367,TM40,0
+368,TM41,0
+369,TM42,0
+370,TM43,0
+371,TM44,0
+372,TM45,0
+373,TM46,0
+374,TM47,0
+375,TM48,0
+376,TM49,0
+377,TM50,0
+378,TM51,0
+379,TM52,0
+380,TM53,0
+381,TM54,0
+382,TM55,0
+383,TM56,0
+384,TM57,0
+385,TM58,0
+386,TM59,0
+387,TM60,0
+388,TM61,0
+389,TM62,0
+390,TM63,0
+391,TM64,0
+392,TM65,0
+393,TM66,0
+394,TM67,0
+395,TM68,0
+396,TM69,0
+397,TM70,0
+398,TM71,0
+399,TM72,0
+400,TM73,0
+401,TM74,0
+402,TM75,0
+403,TM76,0
+404,TM77,0
+405,TM78,0
+406,TM79,0
+407,TM80,0
+408,TM81,0
+409,TM82,0
+410,TM83,0
+411,TM84,0
+412,TM85,0
+413,TM86,0
+414,TM87,0
+415,TM88,0
+416,TM89,0
+417,TM90,0
+418,TM91,0
+419,TM92,0
+420,HM01,0
+421,HM02,0
+422,HM03,0
+423,HM04,0
+424,HM05,0
+425,HM06,0
+426,???,0
+427,???,0
+428,Explorer Kit,0
+429,Loot Sack,0
+430,Rule Book,0
+431,Poké Radar,0
+432,Point Card,0
+433,Journal,0
+434,Seal Case,0
+435,Fashion Case,0
+436,Seal Bag,0
+437,Pal Pad,0
+438,Works Key,0
+439,Old Charm,0
+440,Galactic Key,0
+441,Red Chain,0
+442,Town Map,0
+443,Vs. Seeker,0
+444,Coin Case,0
+445,Old Rod,0
+446,Good Rod,0
+447,Super Rod,0
+448,Sprayduck,0
+449,Poffin Case,0
+450,Bicycle,0
+451,Suite Key,0
+452,Oak's Letter,0
+453,Lunar Wing,0
+454,Member Card,0
+455,Azure Flute,0
+456,S.S. Ticket,0
+457,Contest Pass,0
+458,Magma Stone,0
+459,Parcel,0
+460,Coupon 1,0
+461,Coupon 2,0
+462,Coupon 3,0
+463,Storage Key,0
+464,SecretPotion,0
+465,Vs. Recorder,0
+466,Gracidea,0
+467,Secret Key,0
+468,Apricorn Box,0
+469,Unown Report,0
+470,Berry Pots,0
+471,Dowsing MCHN,0
+472,Blue Card,0
+473,SlowpokeTail,0
+474,Clear Bell,0
+475,Card Key,0
+476,Basement Key,0
+477,SquirtBottle,0
+478,Red Scale,0
+479,Lost Item,0
+480,Pass,0
+481,Machine Part,0
+482,Silver Wing,0
+483,Rainbow Wing,0
+484,Mystery Egg,0
+485,Red Apricorn,0
+486,Blu Apricorn,0
+487,Ylw Apricorn,0
+488,Grn Apricorn,0
+489,Pnk Apricorn,0
+490,Wht Apricorn,0
+491,Blk Apricorn,0
+492,Fast Ball,0
+493,Level Ball,0
+494,Lure Ball,0
+495,Heavy Ball,0
+496,Love Ball,0
+497,Friend Ball,0
+498,Moon Ball,0
+499,Sport Ball,0
+500,Park Ball,0
+501,Photo Album,0
+502,GB Sounds,0
+503,Tidal Bell,0
+504,RageCandyBar,0
+505,Data Card 01,0
+506,Data Card 02,0
+507,Data Card 03,0
+508,Data Card 04,0
+509,Data Card 05,0
+510,Data Card 06,0
+511,Data Card 07,0
+512,Data Card 08,0
+513,Data Card 09,0
+514,Data Card 10,0
+515,Data Card 11,0
+516,Data Card 12,0
+517,Data Card 13,0
+518,Data Card 14,0
+519,Data Card 15,0
+520,Data Card 16,0
+521,Data Card 17,0
+522,Data Card 18,0
+523,Data Card 19,0
+524,Data Card 20,0
+525,Data Card 21,0
+526,Data Card 22,0
+527,Data Card 23,0
+528,Data Card 24,0
+529,Data Card 25,0
+530,Data Card 26,0
+531,Data Card 27,0
+532,Jade Orb,0
+533,Lock Capsule,0
+534,Red Orb,0
+535,Blue Orb,0
+536,Enigma Stone,0
+537,Prism Scale,0
+538,Eviolite,0
+539,Float Stone,0
+540,Rocky Helmet,0
+541,Air Balloon,0
+542,Red Card,0
+543,Ring Target,0
+544,Binding Band,0
+545,Absorb Bulb,0
+546,Cell Battery,0
+547,Eject Button,0
+548,Fire Gem,0
+549,Water Gem,0
+550,Electric Gem,0
+551,Grass Gem,0
+552,Ice Gem,0
+553,Fighting Gem,0
+554,Poison Gem,0
+555,Ground Gem,0
+556,Flying Gem,0
+557,Psychic Gem,0
+558,Bug Gem,0
+559,Rock Gem,0
+560,Ghost Gem,0
+561,Dragon Gem,0
+562,Dark Gem,0
+563,Steel Gem,0
+564,Normal Gem,0
+565,Health Wing,0
+566,Muscle Wing,0
+567,Resist Wing,0
+568,Genius Wing,0
+569,Clever Wing,0
+570,Swift Wing,0
+571,Pretty Wing,0
+572,Cover Fossil,0
+573,Plume Fossil,0
+574,Liberty Pass,0
+575,Pass Orb,0
+576,Dream Ball,0
+577,Poké Toy,0
+578,Prop Case,0
+579,Dragon Skull,0
+580,BalmMushroom,0
+581,Big Nugget,0
+582,Pearl String,0
+583,Comet Shard,0
+584,Relic Copper,0
+585,Relic Silver,0
+586,Relic Gold,0
+587,Relic Vase,0
+588,Relic Band,0
+589,Relic Statue,0
+590,Relic Crown,0
+591,Casteliacone,0
+592,Dire Hit 2,0
+593,X Speed 2,0
+594,X Special 2,0
+595,X Sp. Def 2,0
+596,X Defend 2,0
+597,X Attack 2,0
+598,X Accuracy 2,0
+599,X Speed 3,0
+600,X Special 3,0
+601,X Sp. Def 3,0
+602,X Defend 3,0
+603,X Attack 3,0
+604,X Accuracy 3,0
+605,X Speed 6,0
+606,X Special 6,0
+607,X Sp. Def 6,0
+608,X Defend 6,0
+609,X Attack 6,0
+610,X Accuracy 6,0
+611,Ability Urge,0
+612,Item Drop,0
+613,Item Urge,0
+614,Reset Urge,0
+615,Dire Hit 3,0
+616,Light Stone,0
+617,Dark Stone,0
+618,TM93,0
+619,TM94,0
+620,TM95,0
+621,Xtransceiver,0
+622,???,0
+623,Gram 1,0
+624,Gram 2,0
+625,Gram 3,0
+626,Xtransceiver,0
+627,Medal Box,0
+628,DNA Splicers,0
+629,DNA Splicers,0
+630,Permit,0
+631,Oval Charm,0
+632,Shiny Charm,0
+633,Plasma Card,0
+634,Grubby Hanky,0
+635,Colress MCHN,0
+636,Dropped Item,0
+637,Dropped Item,0
+638,Reveal Glass,0

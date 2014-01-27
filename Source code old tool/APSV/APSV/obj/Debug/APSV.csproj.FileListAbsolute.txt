@@ -1,0 +1,16 @@
+c:\users\andi\documents\visual studio 2012\Projects\APSV\APSV\bin\Debug\APSV.exe
+c:\users\andi\documents\visual studio 2012\Projects\APSV\APSV\bin\Debug\APSV.pdb
+c:\users\andi\documents\visual studio 2012\Projects\APSV\APSV\obj\Debug\APSV.Form1.resources
+c:\users\andi\documents\visual studio 2012\Projects\APSV\APSV\obj\Debug\APSV.Properties.Resources.resources
+c:\users\andi\documents\visual studio 2012\Projects\APSV\APSV\obj\Debug\APSV.csproj.GenerateResource.Cache
+c:\users\andi\documents\visual studio 2012\Projects\APSV\APSV\obj\Debug\APSV.exe
+c:\users\andi\documents\visual studio 2012\Projects\APSV\APSV\obj\Debug\APSV.pdb
+c:\users\andi\documents\visual studio 2012\Projects\APSV\APSV\bin\Debug\data\apse_item2list.csv
+c:\users\andi\documents\visual studio 2012\Projects\APSV\APSV\bin\Debug\data\apse_move.csv
+c:\users\andi\documents\visual studio 2012\Projects\APSV\APSV\bin\Debug\data\apse_pnature.csv
+c:\users\andi\documents\visual studio 2012\Projects\APSV\APSV\bin\Debug\data\apse_pokelist.csv
+c:\users\andi\documents\visual studio 2012\Projects\APSV\APSV\obj\Debug\APSV.csprojResolveAssemblyReference.cache
+C:\Users\Andi\documents\visual studio 2012\Projects\APSV\APSV\obj\Debug\APSV.pop_up.offsetview.resources
+C:\Users\Andi\documents\visual studio 2012\Projects\APSV\APSV\obj\Debug\APSV.pop_up.Locationlist.resources
+F:\projectZ\Tools\__MyProgram\_Standalone Tool (released)\APSV\APSV\obj\Debug\APSV.exe
+F:\projectZ\Tools\__MyProgram\_Standalone Tool (released)\APSV\APSV\obj\Debug\APSV.pdb

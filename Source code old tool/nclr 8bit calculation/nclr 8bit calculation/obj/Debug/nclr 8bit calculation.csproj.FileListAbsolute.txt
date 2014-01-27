@@ -1,0 +1,8 @@
+c:\users\andi\documents\visual studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\bin\Debug\nclr 8bit calculation.exe
+c:\users\andi\documents\visual studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\bin\Debug\nclr 8bit calculation.pdb
+c:\users\andi\documents\visual studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\obj\Debug\nclr 8bit calculation.csprojResolveAssemblyReference.cache
+c:\users\andi\documents\visual studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\obj\Debug\nclr_8bit_calculation.Form1.resources
+c:\users\andi\documents\visual studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\obj\Debug\nclr_8bit_calculation.Properties.Resources.resources
+c:\users\andi\documents\visual studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\obj\Debug\nclr 8bit calculation.csproj.GenerateResource.Cache
+c:\users\andi\documents\visual studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\obj\Debug\nclr 8bit calculation.exe
+c:\users\andi\documents\visual studio 2012\Projects\nclr 8bit calculation\nclr 8bit calculation\obj\Debug\nclr 8bit calculation.pdb

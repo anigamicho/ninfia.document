@@ -1,0 +1,709 @@
+﻿0,----------,????? Pokémon,"???'??""",????.? lbs.,
+1,Bulbasaur,Seed Pokémon,"2'04""",15.2 lbs.,"For some time after its birth, it grows by gaining nourishment from the seed on its back."
+2,Ivysaur,Seed Pokémon,"3'03""",28.7 lbs.,"When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower's coming bloom."
+3,Venusaur,Seed Pokémon,"6'07""",220.5 lbs.,"After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon."
+4,Charmander,Lizard Pokémon,"2'00""",18.7 lbs.,"The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely."
+5,Charmeleon,Flame Pokémon,"3'07""",41.9 lbs.,"In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars."
+6,Charizard,Flame Pokémon,"5'07""",199.5 lbs.,It is said that Charizard's fire burns hotter if it has experienced harsh battles.
+7,Squirtle,Tiny Turtle Pokémon,"1'08""",19.8 lbs.,It shelters itself in its shell then strikes back with spouts of water at every opportunity.
+8,Wartortle,Turtle Pokémon,"3'03""",49.6 lbs.,"It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity."
+9,Blastoise,Shellfish Pokémon,"5'03""",188.5 lbs.,The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.
+10,Caterpie,Worm Pokémon,"1'00""",6.4 lbs.,It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.
+11,Metapod,Cocoon Pokémon,"2'04""",21.8 lbs.,A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.
+12,Butterfree,Butterfly Pokémon,"3'07""",70.5 lbs.,It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.
+13,Weedle,Hairy Bug Pokémon,"1'00""",7.1 lbs.,It eats its weight in leaves every day. It fends off attackers with the needle on its head.
+14,Kakuna,Cocoon Pokémon,"2'00""",22.0 lbs.,"While awaiting evolution, it hides from predators under leaves and in nooks of branches."
+15,Beedrill,Poison Bee Pokémon,"3'03""",65.0 lbs.,"Its best attack involves flying around at high speed, striking with poison needles, then flying off."
+16,Pidgey,Tiny Bird Pokémon,"1'00""",4.0 lbs.,"It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back."
+17,Pidgeotto,Bird Pokémon,"3'07""",66.1 lbs.,"It flies over its wide territory in search of prey, downing it with its highly developed claws."
+18,Pidgeot,Bird Pokémon,"4'11""",87.1 lbs.,"By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees."
+19,Rattata,Mouse Pokémon,"1'00""",7.7 lbs.,"It searches for food all day. It gnaws on hard objects to wear down its fangs, which grow constantly during its lifetime."
+20,Raticate,Mouse Pokémon,"2'04""",40.8 lbs.,"With its long fangs, this surprisingly violent Pokémon can gnaw away even thick concrete with ease."
+21,Spearow,Tiny Bird Pokémon,"1'00""",4.4 lbs.,"It flaps its small wings busily to fly. Using its beak, it searches in grass for prey."
+22,Fearow,Beak Pokémon,"3'11""",83.8 lbs.,It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.
+23,Ekans,Snake Pokémon,"6'07""",15.2 lbs.,It sneaks through grass without making a sound and strikes unsuspecting prey from behind.
+24,Arbok,Cobra Pokémon,"11'06""",143.3 lbs.,The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.
+25,Pikachu,Mouse Pokémon,"1'04""",13.2 lbs.,It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.
+26,Raichu,Mouse Pokémon,"2'07""",66.1 lbs.,"Its tail discharges electricity into the ground, protecting it from getting shocked."
+27,Sandshrew,Mouse Pokémon,"2'00""",26.5 lbs.,"It digs deep burrows to live in. When in danger, it rolls up its body to withstand attacks."
+28,Sandslash,Mouse Pokémon,"3'03""",65.0 lbs.,The spikes on its body are made up of its hardened hide. It rolls up and attacks foes with its spikes.
+29,Nidoran (female),Poison Pin Pokémon,"1'04""",15.4 lbs.,"While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal."
+30,Nidorina,Poison Pin Pokémon,"2'07""",44.1 lbs.,"When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino's."
+31,Nidoqueen,Drill Pokémon,"4'03""",132.3 lbs.,Its entire body is armored with hard scales. It will protect the young in its burrow with its life.
+32,Nidoran (male),Poison Pin Pokémon,"1'08""",19.8 lbs.,It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.
+33,Nidorino,Poison Pin Pokémon,"2'11""",43.0 lbs.,"It has a violent disposition and stabs foes with its horn, which oozes poison upon impact."
+34,Nidoking,Drill Pokémon,"4'07""",136.7 lbs.,One swing of its mighty tail can snap a telephone pole as if it were a matchstick.
+35,Clefairy,Fairy Pokémon,"2'00""",16.5 lbs.,"On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float."
+36,Clefable,Fairy Pokémon,"4'03""",88.2 lbs.,"Their ears are sensitive enough to hear a pin drop from over a mile away, so they're usually found in quiet places."
+37,Vulpix,Fox Pokémon,"2'00""",21.8 lbs.,"As each tail grows, its fur becomes more lustrous. When held, it feels slightly warm."
+38,Ninetales,Fox Pokémon,"3'07""",43.9 lbs.,"Each of its nine tails is imbued with supernatural power, and it can live for a thousand years."
+39,Jigglypuff,Balloon Pokémon,"1'08""",12.1 lbs.,"Looking into its cute, round eyes makes it start singing a song so pleasant listeners can't help but fall asleep."
+40,Wigglytuff,Balloon Pokémon,"3'03""",26.5 lbs.,"Its fine fur feels so pleasant, those who accidentally touch it cannot take their hands away."
+41,Zubat,Bat Pokémon,"2'07""",16.5 lbs.,"It does not need eyes, because it emits ultrasonic waves to check its surroundings while it flies."
+42,Golbat,Bat Pokémon,"5'03""",121.3 lbs.,"Flitting around in the dead of night, it sinks its fangs into its prey and drains a nearly fatal amount of blood."
+43,Oddish,Weed Pokémon,"1'08""",11.9 lbs.,It often plants its root feet in the ground during the day and sows seeds as it walks about at night.
+44,Gloom,Weed Pokémon,"2'07""",19.0 lbs.,"The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away."
+45,Vileplume,Flower Pokémon,"3'11""",41.0 lbs.,"Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen."
+46,Paras,Mushroom Pokémon,"1'00""",11.9 lbs.,Mushrooms named tochukaso grow on its back. They grow along with the host Paras.
+47,Parasect,Mushroom Pokémon,"3'03""",65.0 lbs.,A mushroom grown larger than the host's body controls Parasect. It scatters poisonous spores.
+48,Venonat,Insect Pokémon,"3'03""",66.1 lbs.,"Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light."
+49,Venomoth,Poison Moth Pokémon,"4'11""",27.6 lbs.,It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.
+50,Diglett,Mole Pokémon,"0'08""",1.8 lbs.,"A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight."
+51,Dugtrio,Mole Pokémon,"2'04""",73.4 lbs.,"Its three heads move alternately, driving it through tough soil to depths of over 60 miles."
+52,Meowth,Scratch Cat Pokémon,"1'04""",9.3 lbs.,"It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly."
+53,Persian,Classy Cat Pokémon,"3'03""",70.5 lbs.,"A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk."
+54,Psyduck,Duck Pokémon,"2'07""",43.2 lbs.,"When headaches stimulate its brain cells, which are usually inactive, it can use a mysterious power."
+55,Golduck,Duck Pokémon,"5'07""",168.9 lbs.,"When its forehead shines mysteriously, Golduck can use the full extent of its power."
+56,Mankey,Pig Monkey Pokémon,"1'08""",61.7 lbs.,"It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason."
+57,Primeape,Pig Monkey Pokémon,"3'03""",70.5 lbs.,"It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder."
+58,Growlithe,Puppy Pokémon,"2'04""",41.9 lbs.,"Extremely loyal to its Trainer, it will bark at those who approach the Trainer unexpectedly and run them out of town."
+59,Arcanine,Legendary Pokémon,"6'03""",341.7 lbs.,"The sight of it running over 6,200 miles in a single day and night has captivated many people."
+60,Poliwag,Tadpole Pokémon,"2'00""",27.3 lbs.,"Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet."
+61,Poliwhirl,Tadpole Pokémon,"3'03""",44.1 lbs.,The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.
+62,Poliwrath,Tadpole Pokémon,"4'03""",119.0 lbs.,"With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting."
+63,Abra,Psi Pokémon,"2'11""",43.0 lbs.,Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.
+64,Kadabra,Psi Pokémon,"4'03""",124.6 lbs.,It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.
+65,Alakazam,Psi Pokémon,"4'11""",105.8 lbs.,The spoons clutched in its hands are said to have been created by its psychic powers.
+66,Machop,Superpower Pokémon,"2'07""",43.0 lbs.,"Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once."
+67,Machoke,Superpower Pokémon,"4'11""",155.4 lbs.,It happily carries heavy cargo to toughen up. It willingly does hard work for people.
+68,Machamp,Superpower Pokémon,"5'03""",286.6 lbs.,Its four muscled arms slam foes with powerful punches and chops at blinding speed.
+69,Bellsprout,Flower Pokémon,"2'04""",8.8 lbs.,It prefers hot and humid environments. It is quick at capturing prey with its vines.
+70,Weepinbell,Flycatcher Pokémon,"3'03""",14.1 lbs.,A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.
+71,Victreebel,Flycatcher Pokémon,"5'07""",34.2 lbs.,"It pools in its mouth a fluid with a honey-like scent, which is really an acid that dissolves anything."
+72,Tentacool,Jellyfish Pokémon,"2'11""",100.3 lbs.,"Because its body is almost entirely composed of water, it shrivels up if it is washed ashore."
+73,Tentacruel,Jellyfish Pokémon,"5'03""",121.3 lbs.,It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.
+74,Geodude,Rock Pokémon,"1'04""",44.1 lbs.,"At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily."
+75,Graveler,Rock Pokémon,"3'03""",231.5 lbs.,"It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty."
+76,Golem,Megaton Pokémon,"4'07""",661.4 lbs.,"Even dynamite can't harm its hard, boulder-like body. It sheds its hide just once a year."
+77,Ponyta,Fire Horse Pokémon,"3'03""",66.1 lbs.,"As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster."
+78,Rapidash,Fire Horse Pokémon,"5'07""",209.4 lbs.,"When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance."
+79,Slowpoke,Dopey Pokémon,"3'11""",79.4 lbs.,"Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten."
+80,Slowbro,Hermit Crab Pokémon,"5'03""",173.1 lbs.,"Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down."
+81,Magnemite,Magnet Pokémon,"1'00""",13.2 lbs.,"The electromagnetic waves emitted by the units at the sides of its head expel antigravity, which allows it to float."
+82,Magneton,Magnet Pokémon,"3'03""",132.3 lbs.,The stronger electromagnetic waves from the three linked Magnemite are enough to dry out surrounding moisture.
+83,Farfetch'd,Wild Duck Pokémon,"2'07""",33.1 lbs.,It can't live without the stalk it holds. That's why it defends the stalk from attackers with its life.
+84,Doduo,Twin Bird Pokémon,"4'07""",86.4 lbs.,The brains in its two heads appear to communicate emotions to each other with a telepathic power.
+85,Dodrio,Triple Bird Pokémon,"5'11""",187.8 lbs.,"When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph."
+86,Seel,Sea Lion Pokémon,"3'07""",198.4 lbs.,"The colder it gets, the better it feels. It joyfully swims around oceans so cold that they are filled with floating ice."
+87,Dewgong,Sea Lion Pokémon,"5'07""",264.6 lbs.,"Its streamlined body has low resistance, and it swims around cold oceans at a speed of eight knots."
+88,Grimer,Sludge Pokémon,"2'11""",66.1 lbs.,"Born from sludge, these Pokémon now gather in polluted places and increase the bacteria in their bodies."
+89,Muk,Sludge Pokémon,"3'11""",66.1 lbs.,"It's so stinky! Muk's body contains toxic elements, and any plant will wilt when it passes by."
+90,Shellder,Bivalve Pokémon,"1'00""",8.8 lbs.,It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.
+91,Cloyster,Bivalve Pokémon,"4'11""",292.1 lbs.,It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.
+92,Gastly,Gas Pokémon,"4'03""",0.2 lbs.,"Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison."
+93,Haunter,Gas Pokémon,"5'03""",0.2 lbs.,It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.
+94,Gengar,Shadow Pokémon,"4'11""",89.3 lbs.,The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.
+95,Onix,Rock Snake Pokémon,"28'10""",463.0 lbs.,"Opening its large mouth, it ingests massive amounts of soil and creates long tunnels."
+96,Drowzee,Hypnosis Pokémon,"3'03""",71.4 lbs.,It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.
+97,Hypno,Hypnosis Pokémon,"5'03""",166.7 lbs.,"Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up."
+98,Krabby,River Crab Pokémon,"1'04""",14.3 lbs.,It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.
+99,Kingler,Pincer Pokémon,"4'03""",132.3 lbs.,"The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim."
+100,Voltorb,Ball Pokémon,"1'08""",22.9 lbs.,It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on contact.
+101,Electrode,Ball Pokémon,"3'11""",146.8 lbs.,It is known to drift on winds if it is bloated to bursting with stored electricity.
+102,Exeggcute,Egg Pokémon,"1'04""",5.5 lbs.,Its six eggs converse using telepathy. They can quickly gather if they become separated.
+103,Exeggutor,Coconut Pokémon,"6'07""",264.6 lbs.,"It is called “The Walking Jungle."" If a head grows too big, it falls off and becomes an Exeggcute."
+104,Cubone,Lonely Pokémon,"1'04""",14.3 lbs.,"When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly."
+105,Marowak,Bone Keeper Pokémon,"3'03""",99.2 lbs.,"From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons."
+106,Hitmonlee,Kicking Pokémon,"4'11""",109.8 lbs.,Its legs can stretch double. First-time foes are startled by its extensible reach.
+107,Hitmonchan,Punching Pokémon,"4'07""",110.7 lbs.,The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.
+108,Lickitung,Licking Pokémon,"3'11""",144.4 lbs.,"Being licked by its long, saliva-covered tongue leaves a tingling sensation. Extending its tongue retracts its tail."
+109,Koffing,Poison Gas Pokémon,"2'00""",2.2 lbs.,"Toxic gas is held within its thin, balloon-shaped body, so it can cause massive explosions."
+110,Weezing,Poison Gas Pokémon,"3'11""",20.9 lbs.,Inhaling toxic fumes from trash and mixing them inside its body lets it spread an even fouler stench.
+111,Rhyhorn,Spikes Pokémon,"3'03""",253.5 lbs.,"Its powerful tackles can destroy anything. However, it is too slow witted to help people work."
+112,Rhydon,Drill Pokémon,"6'03""",264.6 lbs.,"Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however."
+113,Chansey,Egg Pokémon,"3'07""",76.3 lbs.,A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.
+114,Tangela,Vine Pokémon,"3'03""",77.2 lbs.,"Many writhing vines cover it, so its true identity remains unknown. The blue vines grow its whole life long."
+115,Kangaskhan,Parent Pokémon,"7'03""",176.4 lbs.,It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.
+116,Horsea,Dragon Pokémon,"1'04""",17.6 lbs.,"It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees."
+117,Seadra,Dragon Pokémon,"3'11""",55.1 lbs.,Its spines provide protection. Its fins and bones are prized as traditional-medicine ingredients.
+118,Goldeen,Goldfish Pokémon,"2'00""",33.1 lbs.,"Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn."
+119,Seaking,Goldfish Pokémon,"4'03""",86.0 lbs.,"In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors."
+120,Staryu,Star Shape Pokémon,"2'07""",76.1 lbs.,"As long as its red core remains, it can regenerate its body instantly, even if it's torn apart."
+121,Starmie,Mysterious Pokémon,"3'07""",176.4 lbs.,Its core shines in many colors and sends radio signals into space to communicate with something.
+122,Mr. Mime,Barrier Pokémon,"4'03""",120.1 lbs.,It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.
+123,Scyther,Mantis Pokémon,"4'11""",123.5 lbs.,The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.
+124,Jynx,Human Shape Pokémon,"4'07""",89.5 lbs.,"Its cries sound like human speech. However, it is impossible to tell what it is trying to say."
+125,Electabuzz,Electric Pokémon,"3'07""",66.1 lbs.,Research is progressing on storing lightning in Electabuzz so this energy can be used at any time.
+126,Magmar,Spitfire Pokémon,"4'03""",98.1 lbs.,"The scorching fire exhaled by Magmar forms heat waves around its body, making it hard to see the Pokémon clearly."
+127,Pinsir,Stag Beetle Pokémon,"4'11""",121.3 lbs.,It grips prey with its powerful pincers and will not let go until the prey is torn in half.
+128,Tauros,Wild Bull Pokémon,"4'07""",194.9 lbs.,"Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature."
+129,Magikarp,Fish Pokémon,"2'11""",22.0 lbs.,"A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though."
+130,Gyarados,Atrocious Pokémon,"21'04""",518.1 lbs.,"Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm."
+131,Lapras,Transport Pokémon,"8'02""",485.0 lbs.,"Able to understand human speech and very intelligent, it loves to swim in the sea with people on its back."
+132,Ditto,Transform Pokémon,"1'00""",8.8 lbs.,"It can reconstitute its entire cellular structure to change into what it sees, but it returns to normal when it relaxes."
+133,Eevee,Evolution Pokémon,"1'00""",14.3 lbs.,"Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions."
+134,Vaporeon,Bubble Jet Pokémon,"3'03""",63.9 lbs.,"Its cell composition is similar to water molecules. As a result, it can't be seen when it melts away into water."
+135,Jolteon,Lightning Pokémon,"2'07""",54.0 lbs.,"By storing electricity in its body, it can shoot its bristlelike fur like a barrage of missiles."
+136,Flareon,Flame Pokémon,"2'11""",55.1 lbs.,"Inhaled air is carried to its flame sac, heated, and exhaled as fire that reaches over 3,000 degrees F."
+137,Porygon,Virtual Pokémon,"2'07""",80.5 lbs.,A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.
+138,Omanyte,Spiral Pokémon,"1'04""",16.5 lbs.,A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.
+139,Omastar,Spiral Pokémon,"3'03""",77.2 lbs.,It is thought that this Pokémon became extinct because its spiral shell grew too large.
+140,Kabuto,Shellfish Pokémon,"1'08""",25.4 lbs.,It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.
+141,Kabutops,Shellfish Pokémon,"4'03""",89.3 lbs.,It is thought that this Pokémon came onto land because its prey adapted to life on land.
+142,Aerodactyl,Fossil Pokémon,"5'11""",130.1 lbs.,A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.
+143,Snorlax,Sleeping Pokémon,"6'11""",1014.1 lbs.,"When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly."
+144,Articuno,Freeze Pokémon,"5'07""",122.1 lbs.,A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.
+145,Zapdos,Electric Pokémon,"5'03""",116.0 lbs.,A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.
+146,Moltres,Flame Pokémon,"6'07""",132.3 lbs.,One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.
+147,Dratini,Dragon Pokémon,"5'11""",7.3 lbs.,"It is called the “Mirage Pokémon"" because so few have seen it. Its shed skin has been found."
+148,Dragonair,Dragon Pokémon,"13'01""",36.4 lbs.,"If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes."
+149,Dragonite,Dragon Pokémon,"7'03""",463.0 lbs.,It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.
+150,Mewtwo,Genetic Pokémon,"6'07""",269.0 lbs.,A Pokémon created by recombining Mew's genes. It's said to have the most savage heart among Pokémon.
+151,Mew,New Species Pokémon,"1'04""",8.8 lbs.,"Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon."
+152,Chikorita,Leaf Pokémon,"2'11""",14.1 lbs.,It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.
+153,Bayleef,Leaf Pokémon,"3'11""",34.8 lbs.,The buds that ring its neck give off a spicy aroma that perks people up.
+154,Meganium,Herb Pokémon,"5'11""",221.6 lbs.,Its breath has the fantastic ability to revive dead plants and flowers.
+155,Cyndaquil,Fire Mouse Pokémon,"1'08""",17.4 lbs.,"It has a timid nature. If it is startled, the flames on its back burn more vigorously."
+156,Quilava,Volcano Pokémon,"2'11""",41.9 lbs.,It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.
+157,Typhlosion,Volcano Pokémon,"5'07""",175.3 lbs.,It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.
+158,Totodile,Big Jaw Pokémon,"2'00""",20.9 lbs.,It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.
+159,Croconaw,Big Jaw Pokémon,"3'07""",55.1 lbs.,"Once it bites down, it won't let go until it loses its fangs. New fangs quickly grow into place."
+160,Feraligatr,Big Jaw Pokémon,"7'07""",195.8 lbs.,"It usually moves slowly, but it goes at blinding speed when it attacks and bites prey."
+161,Sentret,Scout Pokémon,"2'07""",13.2 lbs.,It has a very nervous nature. It stands up high on its tail so it can scan wide areas.
+162,Furret,Long Body Pokémon,"5'11""",71.6 lbs.,The mother puts its offspring to sleep by curling up around them. It corners foes with speed.
+163,Hoothoot,Owl Pokémon,"2'04""",46.7 lbs.,"It marks time precisely. Some countries consider it to be a wise friend, versed in the world's ways."
+164,Noctowl,Owl Pokémon,"5'03""",89.9 lbs.,Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.
+165,Ledyba,Five Star Pokémon,"3'03""",23.8 lbs.,"It is so timid, it can't move if it isn't with a swarm of others. It conveys its feelings with scent."
+166,Ledian,Five Star Pokémon,"4'07""",78.5 lbs.,"It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger."
+167,Spinarak,String Spit Pokémon,"1'08""",18.7 lbs.,It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.
+168,Ariados,Long Leg Pokémon,"3'07""",73.9 lbs.,"It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends."
+169,Crobat,Bat Pokémon,"5'11""",165.3 lbs.,Having four wings allows it to fly more quickly and quietly so it can sneak up on prey without its noticing.
+170,Chinchou,Angler Pokémon,"1'08""",26.5 lbs.,It discharges positive and negative electricity from its antenna tips to shock its foes.
+171,Lanturn,Light Pokémon,"3'11""",49.6 lbs.,"Lanturn's light can shine up from great depths. It is nicknamed “The Deep-Sea Star."""
+172,Pichu,Tiny Mouse Pokémon,"1'00""",4.4 lbs.,"The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked."
+173,Cleffa,Star Shape Pokémon,"1'00""",6.6 lbs.,"According to local rumors, Cleffa are often seen in places where shooting stars have fallen."
+174,Igglybuff,Balloon Pokémon,"1'00""",2.2 lbs.,"Its body has a faintly sweet scent and is bouncy and soft. If it bounces even once, it cannot stop."
+175,Togepi,Spike Ball Pokémon,"1'00""",3.3 lbs.,"It transforms the kindness and joy of others into happiness, which it stores in its shell."
+176,Togetic,Happiness Pokémon,"2'00""",7.1 lbs.,"To share its happiness, it flies around the world seeking kind- hearted people."
+177,Natu,Tiny Bird Pokémon,"0'08""",4.4 lbs.,"It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move."
+178,Xatu,Mystic Pokémon,"4'11""",33.1 lbs.,This odd Pokémon can see both the past and the future. It eyes the sun's movement all day.
+179,Mareep,Wool Pokémon,"2'00""",17.2 lbs.,"When cold weather increases static electricity, its wool doubles in size and the tip of its tail glows slightly."
+180,Flaaffy,Wool Pokémon,"2'07""",29.3 lbs.,"Not even downy wool will grow on its rubbery, nonconductive patches of skin that prevent electrical shock."
+181,Ampharos,Light Pokémon,"4'07""",135.6 lbs.,The tip of its tail shines so brightly it can be used to send sea-navigation beacons to distant foreign shores.
+182,Bellossom,Flower Pokémon,"1'04""",12.8 lbs.,"When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open."
+183,Marill,Aqua Mouse Pokémon,"1'04""",18.7 lbs.,"The oil-filled tail functions as a buoy, so it's fine even in rivers with strong currents."
+184,Azumarill,Aqua Rabbit Pokémon,"2'07""",62.8 lbs.,Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.
+185,Sudowoodo,Imitation Pokémon,"3'11""",83.8 lbs.,"To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain."
+186,Politoed,Frog Pokémon,"3'07""",74.7 lbs.,It gathers groups of others as their leader. Its cries make Poliwag obey.
+187,Hoppip,Cottonweed Pokémon,"1'04""",1.1 lbs.,"It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way."
+188,Skiploom,Cottonweed Pokémon,"2'00""",2.2 lbs.,It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.
+189,Jumpluff,Cottonweed Pokémon,"2'07""",6.6 lbs.,"Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes."
+190,Aipom,Long Tail Pokémon,"2'07""",25.4 lbs.,It lives high among the treetops. It can use its tail as freely and cleverly as its hands.
+191,Sunkern,Seed Pokémon,"1'00""",4.0 lbs.,"It suddenly falls out of the sky in the morning. Knowing it's weak, it simply feeds until it evolves."
+192,Sunflora,Sun Pokémon,"2'07""",18.7 lbs.,"Since it converts sunlight into energy, it is always looking in the direction of the sun."
+193,Yanma,Clear Wing Pokémon,"3'11""",83.8 lbs.,"By flapping its wings at high speed, it can fly freely through the air. Even sudden stops are no problem."
+194,Wooper,Water Fish Pokémon,"1'04""",18.7 lbs.,"When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating."
+195,Quagsire,Water Fish Pokémon,"4'07""",165.3 lbs.,It has an easygoing nature. It doesn't care if it bumps its head on boats and boulders while swimming.
+196,Espeon,Sun Pokémon,"2'11""",58.4 lbs.,"Its fur is so sensitive, it can feel minute shifts in the air and predict the weather...and its foes' thoughts."
+197,Umbreon,Moonlight Pokémon,"3'03""",59.5 lbs.,"When exposed to the moon's aura, the rings on its body glow faintly and it's filled with a mysterious power."
+198,Murkrow,Darkness Pokémon,"1'08""",4.6 lbs.,"If spotted, it will lure an unwary person into chasing it then lose the pursuer on mountain trails."
+199,Slowking,Royal Pokémon,"6'07""",175.3 lbs.,Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.
+200,Misdreavus,Screech Pokémon,"2'04""",2.2 lbs.,A Pokémon that startles people in the middle of the night. It gathers fear as its energy.
+201,Unown,Symbol Pokémon,"1'08""",11.0 lbs.,"When alone, nothing happens. However, if there are two or more, an odd power is said to emerge."
+202,Wobbuffet,Patient Pokémon,"4'03""",62.8 lbs.,It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.
+203,Girafarig,Long Neck Pokémon,"4'11""",91.5 lbs.,The head on its tail contains a small brain. It can instinctively fight even while facing backward.
+204,Pineco,Bagworm Pokémon,"2'00""",15.9 lbs.,It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.
+205,Forretress,Bagworm Pokémon,"3'11""",277.3 lbs.,It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.
+206,Dunsparce,Land Snake Pokémon,"4'11""",30.9 lbs.,"It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail."
+207,Gligar,FlyScorpion Pokémon,"3'07""",142.9 lbs.,It clamps on to its chosen prey then jabs the stinger on its tail into the prey while it's stunned with surprise.
+208,Steelix,Iron Snake Pokémon,"30'02""",881.8 lbs.,The iron it ingested with the soil it swallowed transformed its body and made it harder than diamonds.
+209,Snubbull,Fairy Pokémon,"2'00""",17.2 lbs.,"Small Pokémon flee from its scary face. It is, however, considered by women to be cute."
+210,Granbull,Fairy Pokémon,"4'07""",107.4 lbs.,"It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs."
+211,Qwilfish,Balloon Pokémon,"1'08""",8.6 lbs.,It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.
+212,Scizor,Pincer Pokémon,"5'11""",260.1 lbs.,It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.
+213,Shuckle,Mold Pokémon,"2'00""",45.2 lbs.,"The berries stored in its vaselike shell eventually become a thick, pulpy juice."
+214,Heracross,Single Horn Pokémon,"4'11""",119.0 lbs.,"No matter how heavy its opponents, it flings them far away with its prized horn."
+215,Sneasel,Sharp Claw Pokémon,"2'11""",61.7 lbs.,"A smart and sneaky Pokémon, it makes its opponents flinch by suddenly showing the claws hidden in its paws."
+216,Teddiursa,Little Bear Pokémon,"2'00""",19.4 lbs.,It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.
+217,Ursaring,Hibernator Pokémon,"5'11""",277.3 lbs.,"In its territory, it leaves scratches on trees that bear delicious berries or fruits."
+218,Slugma,Lava Pokémon,"2'04""",77.2 lbs.,"Its body is made of magma. If it doesn't keep moving, its body will cool and harden."
+219,Magcargo,Lava Pokémon,"2'07""",121.3 lbs.,"Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell."
+220,Swinub,Pig Pokémon,"1'04""",14.3 lbs.,"Rooting the tip of its snout into the ground, it searches for food. Sometimes it even digs up a hot spring."
+221,Piloswine,Swine Pokémon,"3'07""",123.0 lbs.,"With its excellent sense of smell, it's even able to find mushrooms that are buried under frozen ground."
+222,Corsola,Coral Pokémon,"2'00""",11.0 lbs.,They prefer unpolluted southern seas. Their coral branches lose their color and deteriorate in dirty water.
+223,Remoraid,Jet Pokémon,"2'00""",26.5 lbs.,The water they shoot from their mouths can hit moving prey from more than 300 feet away.
+224,Octillery,Jet Pokémon,"2'11""",62.8 lbs.,It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.
+225,Delibird,Delivery Pokémon,"2'11""",35.3 lbs.,"It carries food all day long. When someone is lost in the mountains, it shares that food."
+226,Mantine,Kite Pokémon,"6'11""",485.0 lbs.,"If it builds up enough speed swimming, it can fly over 300 feet out of the water from the surface of the ocean."
+227,Skarmory,Armor Bird Pokémon,"5'07""",111.3 lbs.,"Its heavy-looking iron body is actually thin and light, so it can fly at speeds over 180 mph."
+228,Houndour,Dark Pokémon,"2'00""",23.8 lbs.,It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.
+229,Houndoom,Dark Pokémon,"4'07""",77.2 lbs.,"The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever."
+230,Kingdra,Dragon Pokémon,"5'11""",335.1 lbs.,It lives in caves on the seafloor and creates giant whirlpools every time it moves.
+231,Phanpy,Long Nose Pokémon,"1'08""",73.9 lbs.,It is strong despite its compact size. It can easily pick up and carry an adult human on its back.
+232,Donphan,Armor Pokémon,"3'07""",264.6 lbs.,It attacks by curling up then rolling into its foe. It can blow apart a house in one hit.
+233,Porygon2,Virtual Pokémon,"2'00""",71.6 lbs.,"It was upgraded to enable the exploration of other planets. However, it failed to measure up."
+234,Stantler,Big Horn Pokémon,"4'07""",157.0 lbs.,Staring at its antlers creates an odd sensation as if one were being drawn into their centers.
+235,Smeargle,Painter Pokémon,"3'11""",127.9 lbs.,"It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks."
+236,Tyrogue,Scuffle Pokémon,"2'04""",46.3 lbs.,It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.
+237,Hitmontop,Handstand Pokémon,"4'07""",105.8 lbs.,It fights while spinning like a top. The centrifugal force boosts its destructive power by 10.
+238,Smoochum,Kiss Pokémon,"1'04""",13.2 lbs.,"It tests everything by touching with its lips, which remember what it likes and dislikes."
+239,Elekid,Electric Pokémon,"2'00""",51.8 lbs.,Spinning its arms around to generate electricity makes the area between its horns shine light blue.
+240,Magby,Live Coal Pokémon,"2'04""",47.2 lbs.,"It's small, but its body temperature is over 1,100 degrees F. Embers escape its mouth and nose when it breathes."
+241,Miltank,Milk Cow Pokémon,"3'11""",166.4 lbs.,"It is said that kids who drink Miltank's milk grow up to become hearty, healthy adults."
+242,Blissey,Happiness Pokémon,"4'11""",103.2 lbs.,The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.
+243,Raikou,Thunder Pokémon,"6'03""",392.4 lbs.,It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.
+244,Entei,Volcano Pokémon,"6'11""",436.5 lbs.,"It is said that when it roars, a volcano erupts somewhere around the globe."
+245,Suicune,Aurora Pokémon,"6'07""",412.3 lbs.,It races around the world to purify fouled water. It dashes away with the north wind.
+246,Larvitar,Rock Skin Pokémon,"2'00""",158.7 lbs.,"Born deep underground, it comes aboveground and becomes a pupa once it has finished eating the surrounding soil."
+247,Pupitar,Hard Shell Pokémon,"3'11""",335.1 lbs.,This pupa flies around wildly by venting with great force the gas pressurized inside its body.
+248,Tyranitar,Armor Pokémon,"6'07""",445.3 lbs.,The quakes caused when it walks make even great mountains crumble and change the surrounding terrain.
+249,Lugia,Diving Pokémon,"17'01""",476.2 lbs.,"It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm."
+250,Ho-Oh,Rainbow Pokémon,"12'06""",438.7 lbs.,Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.
+251,Celebi,Time Travel Pokémon,"2'00""",11.0 lbs.,"It has the power to travel across time, but it is said to appear only in peaceful times."
+252,Treecko,Wood Gecko Pokémon,"1'08""",11.0 lbs.,"The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings."
+253,Grovyle,Wood Gecko Pokémon,"2'11""",47.6 lbs.,"It lives in dense jungles. While closing in on its prey, it leaps from branch to branch."
+254,Sceptile,Forest Pokémon,"5'07""",115.1 lbs.,The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.
+255,Torchic,Chick Pokémon,"1'04""",5.5 lbs.,"A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F."
+256,Combusken,Young Fowl Pokémon,"2'11""",43.0 lbs.,Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.
+257,Blaziken,Blaze Pokémon,"6'03""",114.6 lbs.,"Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes."
+258,Mudkip,Mud Fish Pokémon,"1'04""",16.8 lbs.,"To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders."
+259,Marshtomp,Mud Fish Pokémon,"2'04""",61.7 lbs.,"Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep."
+260,Swampert,Mud Fish Pokémon,"4'11""",180.6 lbs.,It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.
+261,Poochyena,Bite Pokémon,"1'08""",30.0 lbs.,"A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted."
+262,Mightyena,Bite Pokémon,"3'03""",81.6 lbs.,It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.
+263,Zigzagoon,TinyRaccoon Pokémon,"1'04""",38.6 lbs.,It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.
+264,Linoone,Rushing Pokémon,"1'08""",71.6 lbs.,"It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails."
+265,Wurmple,Worm Pokémon,"1'00""",7.9 lbs.,"Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes."
+266,Silcoon,Cocoon Pokémon,"2'00""",22.0 lbs.,It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.
+267,Beautifly,Butterfly Pokémon,"3'03""",62.6 lbs.,"Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen."
+268,Cascoon,Cocoon Pokémon,"2'04""",25.4 lbs.,"It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback."
+269,Dustox,Poison Moth Pokémon,"3'11""",69.7 lbs.,"Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards."
+270,Lotad,Water Weed Pokémon,"1'08""",5.7 lbs.,It looks like an aquatic plant and serves as a ferry to Pokémon that can't swim.
+271,Lombre,Jolly Pokémon,"3'11""",71.6 lbs.,"It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere."
+272,Ludicolo,Carefree Pokémon,"4'11""",121.3 lbs.,"If it hears festive music, all its muscles fill with energy. It can't help breaking out into a dance."
+273,Seedot,Acorn Pokémon,"1'08""",8.8 lbs.,"When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon."
+274,Nuzleaf,Wily Pokémon,"3'03""",61.7 lbs.,The sound of its grass flute makes its listeners uneasy. It lives deep in forests.
+275,Shiftry,Wicked Pokémon,"4'03""",131.4 lbs.,"By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses."
+276,Taillow,TinySwallow Pokémon,"1'00""",5.1 lbs.,It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.
+277,Swellow,Swallow Pokémon,"2'04""",43.7 lbs.,"It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey."
+278,Wingull,Seagull Pokémon,"2'00""",20.9 lbs.,"It makes its nest on sheer cliffs. Riding the sea breeze, it glides up into the expansive skies."
+279,Pelipper,Water Bird Pokémon,"3'11""",61.7 lbs.,"Skimming the water's surface, it dips its large bill in the sea, scoops up food and water, and carries it."
+280,Ralts,Feeling Pokémon,"1'04""",14.6 lbs.,"If its horns capture the warm feelings of people or Pokémon, its body warms up slightly."
+281,Kirlia,Emotion Pokémon,"2'07""",44.5 lbs.,"If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about."
+282,Gardevoir,Embrace Pokémon,"5'03""",106.7 lbs.,"To protect its Trainer, it will expend all its psychic power to create a small black hole."
+283,Surskit,Pond Skater Pokémon,"1'08""",3.7 lbs.,It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.
+284,Masquerain,Eyeball Pokémon,"2'07""",7.9 lbs.,Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.
+285,Shroomish,Mushroom Pokémon,"1'04""",9.9 lbs.,It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.
+286,Breloom,Mushroom Pokémon,"3'11""",86.4 lbs.,Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.
+287,Slakoth,Slacker Pokémon,"2'07""",52.9 lbs.,"If it eats just three leaves in a day, it is satisfied. Other than that, it sleeps for 20 hours a day."
+288,Vigoroth,Wild Monkey Pokémon,"4'07""",102.5 lbs.,Its heartbeat is fast and its blood so agitated that it can't sit still for one second.
+289,Slaking,Lazy Pokémon,"6'07""",287.7 lbs.,This Pokémon lives lying on its side. It only rolls over and moves when there is no more grass to eat.
+290,Nincada,Trainee Pokémon,"1'08""",12.1 lbs.,"It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes."
+291,Ninjask,Ninja Pokémon,"2'07""",26.5 lbs.,"Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap."
+292,Shedinja,Shed Pokémon,"2'07""",2.6 lbs.,A discarded bug shell that came to life. Peering into the crack on its back is said to steal one's spirit.
+293,Whismur,Whisper Pokémon,"2'00""",35.9 lbs.,"Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane."
+294,Loudred,Big Voice Pokémon,"3'03""",89.3 lbs.,The shock waves from its cries can tip over trucks. It stamps its feet to power up.
+295,Exploud,Loud Noise Pokémon,"4'11""",185.2 lbs.,Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.
+296,Makuhita,Guts Pokémon,"3'03""",190.5 lbs.,It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.
+297,Hariyama,Arm Thrust Pokémon,"7'07""",559.5 lbs.,It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.
+298,Azurill,Polka Dot Pokémon,"0'08""",4.4 lbs.,"It swings its large, nutrient-filled tail around to fight opponents bigger than itself."
+299,Nosepass,Compass Pokémon,"3'03""",213.8 lbs.,Its magnetic nose always faces north and draws iron objects to its body to protect itself better.
+300,Skitty,Kitten Pokémon,"2'00""",24.3 lbs.,It shows its cute side by chasing its own tail until it gets dizzy.
+301,Delcatty,Prim Pokémon,"3'07""",71.9 lbs.,"The reason it does not have a nest is that it simply searches for a clean, comfortable place then sleeps there."
+302,Sableye,Darkness Pokémon,"1'08""",24.3 lbs.,It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.
+303,Mawile,Deceiver Pokémon,"2'00""",25.4 lbs.,Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.
+304,Aron,Iron Armor Pokémon,"1'04""",132.3 lbs.,"In order to build up its steel body, it eats iron ore. This pesky Pokémon is known to eat railroad tracks."
+305,Lairon,Iron Armor Pokémon,"2'11""",264.6 lbs.,"Lairon fight over territory, and when their steel bodies collide, sparks fly."
+306,Aggron,Iron Armor Pokémon,"6'11""",793.7 lbs.,"It claims an entire mountain as its own. The more wounds it has, the more it has battled, so don't take it lightly."
+307,Meditite,Meditate Pokémon,"2'00""",24.7 lbs.,It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.
+308,Medicham,Meditate Pokémon,"4'03""",69.4 lbs.,It gains the ability to see the aura of its opponents by honing its mind through starvation.
+309,Electrike,Lightning Pokémon,"2'00""",33.5 lbs.,"Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed."
+310,Manectric,Discharge Pokémon,"4'11""",88.6 lbs.,It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.
+311,Plusle,Cheering Pokémon,"1'04""",9.3 lbs.,It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.
+312,Minun,Cheering Pokémon,"1'04""",9.3 lbs.,"It cheers on friends. If its friends are losing, its body lets off more and more sparks."
+313,Volbeat,Firefly Pokémon,"2'04""",39.0 lbs.,It communicates with others by lighting up its rear at night. It loves Illumise's sweet aroma.
+314,Illumise,Firefly Pokémon,"2'00""",39.0 lbs.,"With its sweet aroma, it guides Volbeat to draw signs with light in the night sky."
+315,Roselia,Thorn Pokémon,"1'00""",4.4 lbs.,"It uses the different poisons in each hand separately when it attacks. The stronger its aroma, the healthier it is."
+316,Gulpin,Stomach Pokémon,"1'04""",22.7 lbs.,Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.
+317,Swalot,Poison Bag Pokémon,"5'07""",176.4 lbs.,It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.
+318,Carvanha,Savage Pokémon,"2'07""",45.9 lbs.,They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.
+319,Sharpedo,Brutal Pokémon,"5'11""",195.8 lbs.,"Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea."""
+320,Wailmer,Ball Whale Pokémon,"6'07""",286.6 lbs.,It eats one ton of food every day. It plays by shooting stored seawater out its blowholes with great force.
+321,Wailord,Float Whale Pokémon,"47'07""",877.4 lbs.,It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.
+322,Numel,Numb Pokémon,"2'04""",52.9 lbs.,"The magma in its body reaches 2,200 degrees F. Its hump gets smaller when it uses Fire-type moves."
+323,Camerupt,Eruption Pokémon,"6'03""",485.0 lbs.,The volcanoes on its back have a major eruption every 10 years--or whenever it becomes really angry.
+324,Torkoal,Coal Pokémon,"1'08""",177.2 lbs.,It burns coal inside its shell for energy. It blows out black soot if it is endangered.
+325,Spoink,Bounce Pokémon,"2'04""",67.5 lbs.,"Using its tail like a spring, it keeps its heart beating by bouncing constantly. If it stops, it dies."
+326,Grumpig,Manipulate Pokémon,"2'11""",157.6 lbs.,It uses black pearls to amplify its psychic power. It does a strange dance to control foes' minds.
+327,Spinda,Spot Panda Pokémon,"3'07""",11.0 lbs.,No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.
+328,Trapinch,Ant Pit Pokémon,"2'04""",33.1 lbs.,It makes an inescapable conical pit and lies in wait at the bottom for prey to come tumbling down.
+329,Vibrava,Vibration Pokémon,"3'07""",33.7 lbs.,The ultrasonic waves it generates by rubbing its two wings together cause severe headaches.
+330,Flygon,Mystic Pokémon,"6'07""",180.8 lbs.,"Known as “The Desert Spirit,"" this Pokémon hides in the sandstorms it causes by beating its wings."
+331,Cacnea,Cactus Pokémon,"1'04""",113.1 lbs.,"By storing water in its body, this desert dweller can survive for 30 days without water."
+332,Cacturne,Scarecrow Pokémon,"4'03""",170.6 lbs.,"It becomes active at night, seeking prey that is exhausted from the day's desert heat."
+333,Swablu,Cotton Bird Pokémon,"1'04""",2.6 lbs.,"For some reason, it likes to land on people's heads softly and act like it's a hat."
+334,Altaria,Humming Pokémon,"3'07""",45.4 lbs.,"On sunny days, it flies freely through the sky and blends into the clouds. It sings in a beautiful soprano."
+335,Zangoose,Cat Ferret Pokémon,"4'03""",88.8 lbs.,"It's Seviper's archrival. To threaten those it encounters, it fans out the claws on its front paws."
+336,Seviper,Fang Snake Pokémon,"8'10""",115.7 lbs.,Constant polishing makes the edge of the blade on its tail extremely sharp. It's Zangoose's archrival.
+337,Lunatone,Meteorite Pokémon,"3'03""",370.4 lbs.,The phase of the moon apparently has some effect on its power. It's active on the night of a full moon.
+338,Solrock,Meteorite Pokémon,"3'11""",339.5 lbs.,"Solar energy is the source of its power, so it is strong during the daytime. When it spins, its body shines."
+339,Barboach,Whiskers Pokémon,"1'04""",4.2 lbs.,"Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud."
+340,Whiscash,Whiskers Pokémon,"2'11""",52.0 lbs.,"It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors."
+341,Corphish,Ruffian Pokémon,"2'00""",25.4 lbs.,"No matter how dirty the water in the river, it will adapt and thrive. It has a strong will to survive."
+342,Crawdaunt,Rogue Pokémon,"3'07""",72.3 lbs.,"Loving to battle, this Pokémon pinches all Pokémon that enter its territory with its pincers and throws them out."
+343,Baltoy,Clay Doll Pokémon,"1'08""",47.4 lbs.,"Discovered in ancient ruins, it moves by spinning around and forms a group when it finds others."
+344,Claydol,Clay Doll Pokémon,"4'11""",238.1 lbs.,"This mysterious Pokémon started life as an ancient clay figurine made over 20,000 years ago."
+345,Lileep,Sea Lily Pokémon,"3'03""",52.5 lbs.,It lived on the seafloor 100 million years ago and was reanimated scientifically.
+346,Cradily,Barnacle Pokémon,"4'11""",133.2 lbs.,"It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches."
+347,Anorith,Old Shrimp Pokémon,"2'04""",27.6 lbs.,A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.
+348,Armaldo,Plate Pokémon,"4'11""",150.4 lbs.,It went ashore after evolving. Its entire body is clad in a sturdy armor.
+349,Feebas,Fish Pokémon,"2'00""",16.3 lbs.,"It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water."
+350,Milotic,Tender Pokémon,"20'04""",357.1 lbs.,Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.
+351,Castform,Weather Pokémon,"1'00""",1.8 lbs.,"Temperature and weather affect its cellular structure, so this Pokémon changes form according to the weather."
+352,Kecleon,Color Swap Pokémon,"3'03""",48.5 lbs.,"It can freely change its body's color. The zigzag pattern on its belly doesn't change, however."
+353,Shuppet,Puppet Pokémon,"2'00""",5.1 lbs.,"It feeds on the dark emotions of sadness and hatred, which make it grow steadily stronger."
+354,Banette,Marionette Pokémon,"3'07""",27.6 lbs.,A doll that became a Pokémon over its grudge of being thrown away. It seeks the child who disowned it.
+355,Duskull,Requiem Pokémon,"2'07""",33.1 lbs.,It loves the crying of children. It startles bad kids by passing through walls and making them cry.
+356,Dusclops,Beckon Pokémon,"5'03""",67.5 lbs.,It seeks drifting will-o'-the-wisps and sucks them into its empty body. What happens inside is a mystery.
+357,Tropius,Fruit Pokémon,"6'07""",220.5 lbs.,"It flies by flapping its broad leaves and gives the sweet, delicious fruit around its neck to children."
+358,Chimecho,Wind Chime Pokémon,"2'00""",2.2 lbs.,Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.
+359,Absol,Disaster Pokémon,"3'11""",103.6 lbs.,It appears from deep in the mountains to warn people about upcoming disasters it has sensed with its horn.
+360,Wynaut,Bright Pokémon,"2'00""",30.9 lbs.,It grows strong by pushing up against others en masse. It loves eating sweet fruit.
+361,Snorunt,Snow Hat Pokémon,"2'04""",37.0 lbs.,It is said that several Snorunt gather under giant leaves and live together in harmony.
+362,Glalie,Face Pokémon,"4'11""",565.5 lbs.,It prevents prey from escaping by instantaneously freezing moisture in the air.
+363,Spheal,Clap Pokémon,"2'07""",87.1 lbs.,"They can't swim well yet, and they move much faster by rolling. When they're happy, they clap fins."
+364,Sealeo,Ball Roll Pokémon,"3'07""",193.1 lbs.,"Be it Spheal or Poké Ball, it will spin any round object on its nose with the greatest of ease."
+365,Walrein,Ice Break Pokémon,"4'07""",332.0 lbs.,"Not only does its thick blubber keep it warm, it also protects it from attacks. It shatters ice with its prized tusks."
+366,Clamperl,Bivalve Pokémon,"1'04""",115.7 lbs.,It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.
+367,Huntail,Deep Sea Pokémon,"5'07""",59.5 lbs.,"It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey."
+368,Gorebyss,South Sea Pokémon,"5'11""",49.8 lbs.,"It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason."
+369,Relicanth,Longevity Pokémon,"3'03""",51.6 lbs.,A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.
+370,Luvdisc,Rendezvous Pokémon,"2'00""",19.2 lbs.,It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.
+371,Bagon,Rock Head Pokémon,"2'00""",92.8 lbs.,"Dreaming of one day flying, it practices by leaping off cliffs every day."
+372,Shelgon,Endurance Pokémon,"3'07""",243.6 lbs.,"Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves."
+373,Salamence,Dragon Pokémon,"4'11""",226.2 lbs.,"As a result of its long-held dream of flying, its cellular structure changed, and wings grew out."
+374,Beldum,Iron Ball Pokémon,"2'00""",209.9 lbs.,"Its cells are all magnetic, and it communicates with others by using magnetic pulses."
+375,Metang,Iron Claw Pokémon,"3'11""",446.4 lbs.,"It is formed by two Beldum joining together. Its two brains are linked, amplifying its psychic power."
+376,Metagross,Iron Leg Pokémon,"5'03""",1212.5 lbs.,"With four linked brains, it's more intelligent than a supercomputer, and it uses calculations to analyze foes."
+377,Regirock,Rock Peak Pokémon,"5'07""",507.1 lbs.,"Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself."
+378,Regice,Iceberg Pokémon,"5'11""",385.8 lbs.,Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.
+379,Registeel,Iron Pokémon,"6'03""",451.9 lbs.,"Tempered by pressure underground over tens of thousands of years, its body cannot be scratched."
+380,Latias,Eon Pokémon,"4'07""",88.2 lbs.,Its body is covered with a down that can refract light in such a way that it becomes invisible.
+381,Latios,Eon Pokémon,"6'07""",132.3 lbs.,"A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes."
+382,Kyogre,Sea Basin Pokémon,"14'09""",776.0 lbs.,It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.
+383,Groudon,Continent Pokémon,"11'06""",2094.4 lbs.,It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.
+384,Rayquaza,Sky High Pokémon,"23'00""",455.2 lbs.,It lives in the ozone layer far above the clouds and cannot be seen from the ground.
+385,Jirachi,Wish Pokémon,"1'00""",2.4 lbs.,It is said to have the ability to grant any wish for just one week every thousand years.
+386,Deoxys (Normal Form),DNA Pokémon,"5'07""",134.0 lbs.,An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.
+387,Turtwig,Tiny Leaf Pokémon,"1'04""",22.5 lbs.,"The shell on its back is made of soil. On a very healthy Turtwig, the shell should feel moist."
+388,Grotle,Grove Pokémon,"3'07""",213.8 lbs.,It knows where pure water wells up. It carries fellow Pokémon there on its back.
+389,Torterra,Continent Pokémon,"7'03""",683.4 lbs.,Some Pokémon are born on a Torterra's back and spend their entire life there.
+390,Chimchar,Chimp Pokémon,"1'08""",13.7 lbs.,"It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires."
+391,Monferno,Playful Pokémon,"2'11""",48.5 lbs.,It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.
+392,Infernape,Flame Pokémon,"3'11""",121.3 lbs.,It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.
+393,Piplup,Penguin Pokémon,"1'04""",11.5 lbs.,"A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care."
+394,Prinplup,Penguin Pokémon,"2'07""",50.7 lbs.,"Because every Prinplup considers itself to be the most important, they can never form a group."
+395,Empoleon,Emperor Pokémon,"5'07""",186.3 lbs.,"If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe."
+396,Starly,Starling Pokémon,"1'00""",4.4 lbs.,"Because they are weak individually, they form groups. However, they bicker if the group grows too big."
+397,Staravia,Starling Pokémon,"2'00""",34.2 lbs.,"Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily."
+398,Staraptor,Predator Pokémon,"3'11""",54.9 lbs.,It never stops attacking even if it is injured. It fusses over the shape of its comb.
+399,Bidoof,Plump Mouse Pokémon,"1'08""",44.1 lbs.,A comparison revealed that Bidoof's front teeth grow at the same rate as Rattata's.
+400,Bibarel,Beaver Pokémon,"3'03""",69.4 lbs.,"A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby."
+401,Kricketot,Cricket Pokémon,"1'00""",4.9 lbs.,"Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound."
+402,Kricketune,Cricket Pokémon,"3'03""",56.2 lbs.,There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.
+403,Shinx,Flash Pokémon,"1'08""",20.9 lbs.,The extension and contraction of its muscles generates electricity. It glows when in trouble.
+404,Luxio,Spark Pokémon,"2'11""",67.2 lbs.,Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.
+405,Luxray,Gleam Eyes Pokémon,"4'07""",92.6 lbs.,It can see clearly through walls to track down its prey and seek its lost young.
+406,Budew,Bud Pokémon,"0'08""",2.6 lbs.,"Sensitive to changing temperatures, the bud blooms when it's warm, releasing toxic pollen."
+407,Roserade,Bouquet Pokémon,"2'11""",32.0 lbs.,"Luring prey with a sweet scent, it uses poison whips on its arms to poison, bind, and finish off the prey."
+408,Cranidos,Head Butt Pokémon,"2'11""",69.4 lbs.,"A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts."
+409,Rampardos,Head Butt Pokémon,"5'03""",226.0 lbs.,"If two were to smash their heads together, their foot-thick skulls would keep them from fainting."
+410,Shieldon,Shield Pokémon,"1'08""",125.7 lbs.,"It is outstandingly armored. As a result, it can eat grass and berries without having to fight."
+411,Bastiodon,Shield Pokémon,"4'03""",329.6 lbs.,"When they lined up side by side, no foe could break through. They shielded their young in that way."
+412,Burmy,Bagworm Pokémon,"0'08""",7.5 lbs.,"Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak."
+413,Wormadam (Plant Cloak),Bagworm Pokémon,"1'08""",14.3 lbs.,"When evolving, its body takes in surrounding materials. As a result, there are many body variations."
+414,Mothim,Moth Pokémon,"2'11""",51.4 lbs.,"While it loves floral honey, it won't gather any itself. Instead, it plots to steal some from Combee."
+415,Combee,Tiny Bee Pokémon,"1'00""",12.1 lbs.,"This Pokémon is a set of three. When they sleep, they gather up and form a giant hive of 100 Combee."
+416,Vespiquen,Beehive Pokémon,"3'11""",84.9 lbs.,It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.
+417,Pachirisu,EleSquirrel Pokémon,"1'04""",8.6 lbs.,A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.
+418,Buizel,Sea Weasel Pokémon,"2'04""",65.0 lbs.,It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.
+419,Floatzel,Sea Weasel Pokémon,"3'07""",73.9 lbs.,It is a common sight around fishing ports. It is known to rescue people and carry off prey.
+420,Cherubi,Cherry Pokémon,"1'04""",7.3 lbs.,"The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off."
+421,Cherrim,Blossom Pokémon,"1'08""",20.5 lbs.,"If it senses strong sunlight, it opens its folded petals to absorb the sun's rays with its whole body."
+422,Shellos,Sea Slug Pokémon,"1'00""",13.9 lbs.,"Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out."
+423,Gastrodon,Sea Slug Pokémon,"2'11""",65.9 lbs.,"Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells."
+424,Ambipom,Long Tail Pokémon,"3'11""",44.8 lbs.,"Split into two, the tails are so adept at handling and doing things, Ambipom rarely uses its hands."
+425,Drifloon,Balloon Pokémon,"1'04""",2.6 lbs.,"These Pokémon are called the “Signpost for Wandering Spirits."" Children holding them sometimes vanish."
+426,Drifblim,Blimp Pokémon,"3'11""",33.1 lbs.,"They carry people and Pokémon, but the wind can catch them, so there can't be a fixed destination."
+427,Buneary,Rabbit Pokémon,"1'04""",12.1 lbs.,"By extending its rolled-up ears and striking the ground, it can bound so high it surprises itself."
+428,Lopunny,Rabbit Pokémon,"3'11""",73.4 lbs.,"Extremely cautious, it quickly bounds off when it senses danger."
+429,Mismagius,Magical Pokémon,"2'11""",9.7 lbs.,Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.
+430,Honchkrow,Big Boss Pokémon,"2'11""",60.2 lbs.,"If one utters a deep cry, many Murkrow gather quickly. For this, it is called “Summoner of Night."""
+431,Glameow,Catty Pokémon,"1'08""",8.6 lbs.,It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn't fed.
+432,Purugly,Tiger Cat Pokémon,"3'03""",96.6 lbs.,"It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly."
+433,Chingling,Bell Pokémon,"0'08""",1.3 lbs.,"There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound."
+434,Stunky,Skunk Pokémon,"1'04""",42.3 lbs.,"It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away."
+435,Skuntank,Skunk Pokémon,"3'03""",83.8 lbs.,It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.
+436,Bronzor,Bronze Pokémon,"1'08""",133.4 lbs.,They are found in ancient tombs. The patterns on their backs are said to be imbued with mysterious power.
+437,Bronzong,Bronze Bell Pokémon,"4'03""",412.3 lbs.,"In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground."
+438,Bonsly,Bonsai Pokémon,"1'08""",33.1 lbs.,It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.
+439,Mime Jr.,Mime Pokémon,"2'00""",28.7 lbs.,It mimics the expressions and motions of those it sees to understand the feelings of others.
+440,Happiny,Playhouse Pokémon,"2'00""",53.8 lbs.,It likes to carry around a small rock. It may wander around others' feet and cause them to stumble.
+441,Chatot,Music Note Pokémon,"1'08""",4.2 lbs.,"Its tongue is just like a human's. As a result, it can cleverly mimic human speech."
+442,Spiritomb,Forbidden Pokémon,"3'03""",238.1 lbs.,Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.
+443,Gible,Land Shark Pokémon,"2'04""",45.2 lbs.,"It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too."
+444,Gabite,Cave Pokémon,"4'07""",123.5 lbs.,It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.
+445,Garchomp,Mach Pokémon,"6'03""",209.4 lbs.,"It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees."
+446,Munchlax,Big Eater Pokémon,"2'00""",231.5 lbs.,"In its desperation to gulp down food, it forgets about the food it has hidden under its fur."
+447,Riolu,Emanation Pokémon,"2'04""",44.5 lbs.,"It uses the shapes of auras, which change according to emotion, to communicate with others."
+448,Lucario,Aura Pokémon,"3'11""",119.0 lbs.,"By reading the auras of all things, it can tell how others are feeling from over half a mile away."
+449,Hippopotas,Hippo Pokémon,"2'07""",109.1 lbs.,It shuts its nostrils tight then travels through sand as if walking. They form colonies of around 10.
+450,Hippowdon,Heavyweight Pokémon,"6'07""",661.4 lbs.,It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.
+451,Skorupi,Scorpion Pokémon,"2'07""",26.5 lbs.,It lives in arid regions and can go without food for a year while waiting for prey.
+452,Drapion,Ogre Scorp Pokémon,"4'03""",135.6 lbs.,"It takes pride in its strength. Even though it can tear foes apart, it finishes them off with powerful poison."
+453,Croagunk,Toxic Mouth Pokémon,"2'04""",50.7 lbs.,"Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab."
+454,Toxicroak,Toxic Mouth Pokémon,"4'03""",97.9 lbs.,The croaking that Toxicroak produces before a battle is for churning the poison it has stored in its poison sac.
+455,Carnivine,Bug Catcher Pokémon,"4'07""",59.5 lbs.,"Using its tentacles to lash itself to trees, it lies in wait for prey, luring it close with sweet-smelling drool."
+456,Finneon,Wing Fish Pokémon,"1'04""",15.4 lbs.,The line running down its side can store sunlight. It shines vividly at night.
+457,Lumineon,Neon Pokémon,"3'11""",52.9 lbs.,It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn.
+458,Mantyke,Kite Pokémon,"3'03""",143.3 lbs.,The pattern on its back varies by region. It often swims in a school of Remoraid.
+459,Snover,Frost Tree Pokémon,"3'03""",111.3 lbs.,"Seemingly curious about people, they gather around footsteps they find on snowy mountains."
+460,Abomasnow,Frost Tree Pokémon,"7'03""",298.7 lbs.,"They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again."
+461,Weavile,Sharp Claw Pokémon,"3'07""",75.0 lbs.,They communicate by clawing signs in boulders and work together to surround enemies.
+462,Magnezone,Magnet Area Pokémon,"3'11""",396.8 lbs.,"Sometimes the magnetism emitted by Magnezone is too strong, making them attract each other so they cannot move."
+463,Lickilicky,Licking Pokémon,"5'07""",308.6 lbs.,Their saliva contains lots of components that can dissolve anything. The numbness caused by their lick does not dissipate.
+464,Rhyperior,Drill Pokémon,"7'10""",623.5 lbs.,It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.
+465,Tangrowth,Vine Pokémon,"6'07""",283.5 lbs.,"Even if one of its arms is eaten, it's fine. The Pokémon regenerates quickly and will go right back to normal."
+466,Electivire,Thunderbolt Pokémon,"5'11""",305.6 lbs.,"The instant it presses the tips of its tails onto an opponent, it sends over 20,000 volts of electricity into the foe."
+467,Magmortar,Blast Pokémon,"5'03""",149.9 lbs.,"When shooting 3,600 degree F fireballs from its arms, its body takes on a whitish hue from the intense heat."
+468,Togekiss,Jubilee Pokémon,"4'11""",83.8 lbs.,It shares many blessings with people who respect one another's rights and avoid needless strife.
+469,Yanmega,Ogre Darner Pokémon,"6'03""",113.5 lbs.,It prefers to battle by biting apart foes' heads instantly while flying by at high speed.
+470,Leafeon,Verdant Pokémon,"3'03""",56.2 lbs.,"With cells similar to those of plants, it performs photosynthesis inside its body and creates pure air."
+471,Glaceon,Fresh Snow Pokémon,"2'07""",57.1 lbs.,It lowers its body heat to freeze its fur. The hairs then become like needles it can fire.
+472,Gliscor,Fang Scorp Pokémon,"6'07""",93.7 lbs.,"It dances silently through the sky. When it approaches prey, it can land a critical hit in an instant."
+473,Mamoswine,Twin Tusk Pokémon,"8'02""",641.5 lbs.,"When the temperature rose at the end of the ice age, most Mamoswine disappeared."
+474,Porygon-Z,Virtual Pokémon,"2'11""",75.0 lbs.,Its programming was modified to enable work in alien dimensions. It did not work as planned.
+475,Gallade,Blade Pokémon,"5'03""",114.6 lbs.,"When trying to protect someone, it extends its elbows as if they were swords and fights savagely."
+476,Probopass,Compass Pokémon,"4'07""",749.6 lbs.,It freely controls three units called Mini-Noses using magnetic force.
+477,Dusknoir,Gripper Pokémon,"7'03""",235.0 lbs.,It is said to take lost spirits into its pliant body and guide them home.
+478,Froslass,Snow Land Pokémon,"4'03""",58.6 lbs.,It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.
+479,Rotom,Plasma Pokémon,"1'00""",0.7 lbs.,Its electric-like body can enter some kinds of machines and take control in order to make mischief.
+480,Uxie,Knowledge Pokémon,"1'00""",0.7 lbs.,"When Uxie flew, people gained the ability to solve problems. It was the birth of knowledge."
+481,Mesprit,Emotion Pokémon,"1'00""",0.7 lbs.,"When Mesprit flew, people learned the joy and sadness of living. It was the birth of emotions."
+482,Azelf,Willpower Pokémon,"1'00""",0.7 lbs.,"When Azelf flew, people gained the determination to do things. It was the birth of willpower."
+483,Dialga,Temporal Pokémon,"17'09""",1505.8 lbs.,A legendary Pokémon of Sinnoh. It is said that time flows when Dialga's heart beats.
+484,Palkia,Spatial Pokémon,"13'09""",740.8 lbs.,A legendary Pokémon of Sinnoh. It is said that space becomes more stable with Palkia's every breath.
+485,Heatran,Lava Dome Pokémon,"5'07""",948.0 lbs.,"Its body is made of rugged steel. However, it is partially melted in spots because of its own heat."
+486,Regigigas,Colossal Pokémon,"12'02""",925.9 lbs.,"It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma."
+487,Giratina (Altered form),Renegade Pokémon,"14'09""",1653.5 lbs.,It was banished for its violence. It silently gazed upon the old world from the Distortion World.
+488,Cresselia,Lunar Pokémon,"4'11""",188.7 lbs.,"On nights around the quarter moon, the aurora from its tail extends and undulates beautifully."
+489,Phione,Sea Drifter Pokémon,"1'04""",6.8 lbs.,"It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted."
+490,Manaphy,Seafaring Pokémon,"1'00""",3.1 lbs.,It is born with a wondrous power that lets it bond with any kind of Pokémon.
+491,Darkrai,Pitch-Black Pokémon,"4'11""",111.3 lbs.,"To protect itself, it afflicts those around it with nightmares. However, it means no harm."
+492,Shaymin (land form),Gratitude Pokémon,"0'08""",4.6 lbs.,The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.
+493,Archeus,Alpha Pokémon,"10'06""",705.5 lbs.,It is said to have emerged from an egg in a place where there was nothing then shaped the world.
+494,Victini,Victory Pokémon,"1'04""",8.8 lbs.,"When it shares the infinite energy it creates, that being's entire body will be overflowing with power."
+495,Snivy,Grass Snake Pokémon,"2'00""",17.9 lbs.,Being exposed to sunlight makes its movements swifter. It uses vines more adeptly than its hands.
+496,Servine,Grass Snake Pokémon,"2'07""",35.3 lbs.,"When it gets dirty, its leaves can't be used in photosynthesis, so it always keeps itself clean."
+497,Serperior,Regal Pokémon,"10'10""",138.9 lbs.,It only gives its all against strong opponents who are not fazed by the glare from Serperior's noble eyes.
+498,Tepig,Fire Pig Pokémon,"1'08""",21.8 lbs.,"It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp."
+499,Pignite,Fire Pig Pokémon,"3'03""",122.4 lbs.,"The more it eats, the more fuel it has to make the fire in its stomach stronger. This fills it with even more power."
+500,Emboar,Mega Fire Pig Pokémon,"5'03""",330.7 lbs.,A flaring beard of fire is proof that it is fired up. It is adept at using many different moves.
+501,Oshawott,Sea Otter Pokémon,"1'08""",13.0 lbs.,The scalchop on its stomach isn't just used for battle--it can be used to break open hard berries as well.
+502,Dewott,Discipline Pokémon,"2'07""",54.0 lbs.,"As a result of strict training, each Dewott learns different forms for using the scalchops."
+503,Samurott,Formidable Pokémon,"4'11""",208.6 lbs.,"In the time it takes a foe to blink, it can draw and sheathe the seamitars attached to its front legs."
+504,Patrat,Scout Pokémon,"1'08""",25.6 lbs.,"Extremely cautious, one of them will always be on the lookout, but it won't notice a foe coming from behind."
+505,Watchog,Lookout Pokémon,"3'07""",59.5 lbs.,"Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents."
+506,Lillipup,Puppy Pokémon,"1'04""",9.0 lbs.,"Though it is a very brave Pokémon, it's also smart enough to check its foe's strength and avoid battle."
+507,Herdier,Loyal Dog Pokémon,"2'11""",32.4 lbs.,"This very loyal Pokémon helps Trainers, and it also takes care of other Pokémon."
+508,Stoutland,Big-Hearted Pokémon,"3'11""",134.5 lbs.,Being wrapped in its long fur is so comfortable that a person would be fine even overnight on a wintry mountain.
+509,Purrloin,Devious Pokémon,"1'04""",22.3 lbs.,Their cute act is a ruse. They trick people and steal their valuables just to see the looks on their faces.
+510,Liepard,Cruel Pokémon,"3'07""",82.7 lbs.,Their beautiful form comes from the muscles they have developed. They run silently in the night.
+511,Pansage,Grass Monkey Pokémon,"2'00""",23.1 lbs.,It's good at finding berries and gathers them from all over. It's kind enough to share them with friends.
+512,Simisage,Thorn Monkey Pokémon,"3'07""",67.2 lbs.,It strikes its enemies with a thorn-covered tail. The leaf on its head is bitter.
+513,Pansear,High Temp Pokémon,"2'00""",24.3 lbs.,"Very intelligent, it roasts berries before eating them. It likes to help people."
+514,Simisear,Ember Pokémon,"3'03""",61.7 lbs.,"When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets."
+515,Panpour,Spray Pokémon,"2'00""",29.8 lbs.,The water stored inside the tuft on its head is full of nutrients. It waters plants with it using its tail.
+516,Simipour,Geyser Pokémon,"3'03""",63.9 lbs.,"It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail."
+517,Munna,Dream Eater Pokémon,"2'00""",51.4 lbs.,This Pokémon appears before people and Pokémon who are having nightmares and eats those dreams.
+518,Musharna,Drowsing Pokémon,"3'07""",133.4 lbs.,The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.
+519,Pidove,Tiny Pigeon Pokémon,"1'00""",4.6 lbs.,This very forgetful Pokémon will wait for a new order from its Trainer even though it already has one.
+520,Tranquill,Wild Pigeon Pokémon,"2'00""",33.1 lbs.,"No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer."
+521,Unfezant,Proud Pokémon,"3'11""",63.9 lbs.,"Males swing the plumage on their heads to threaten others, but females are better at flying."
+522,Blitzle,Electrified Pokémon,"2'07""",65.7 lbs.,Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.
+523,Zebstrika,Thunderbolt Pokémon,"5'03""",175.3 lbs.,"When this ill-tempered Pokémon runs wild, it shoots lightning from its mane in all directions."
+524,Roggenrola,Mantle Pokémon,"1'04""",39.7 lbs.,The hexagonal-shaped hole is its ear. It has a tendency to walk in the direction the sound is coming from.
+525,Boldore,Ore Pokémon,"2'11""",224.9 lbs.,"When it is healthy, its core sticks out. Always facing the same way, it swiftly moves front to back and left to right."
+526,Gigalith,Compressed Pokémon,"5'07""",573.2 lbs.,The solar rays it absorbs are processed in its energy core and fired as a ball of light.
+527,Woobat,Bat Pokémon,"1'04""",4.6 lbs.,The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.
+528,Swoobat,Courting Pokémon,"2'11""",23.1 lbs.,It shakes its tail vigorously when it emits ultrasonic waves strong enough to reduce concrete to rubble.
+529,Drilbur,Mole Pokémon,"1'00""",18.7 lbs.,"By spinning its body, it can dig straight through the ground at a speed of 30 mph."
+530,Excadrill,Subterrene Pokémon,"2'04""",89.1 lbs.,"Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is."
+531,Audino,Hearing Pokémon,"3'07""",68.3 lbs.,"Using the feelers on its ears, it can tell how someone is feeling or when an egg might hatch."
+532,Timburr,Muscular Pokémon,"2'00""",27.6 lbs.,"Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs."
+533,Gurdurr,Muscular Pokémon,"3'11""",88.2 lbs.,"With strengthened bodies, they skillfully wield steel beams to take down buildings."
+534,Conkeldurr,Muscular Pokémon,"4'07""",191.8 lbs.,"Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete."
+535,Tympole,Tadpole Pokémon,"1'08""",9.9 lbs.,"By vibrating its cheeks, it emits sound waves imperceptible to humans and warns others of danger."
+536,Palpitoad,Vibration Pokémon,"2'07""",37.5 lbs.,"It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents."
+537,Seismitoad,Vibration Pokémon,"4'11""",136.7 lbs.,"By putting power into its bumps, it creates vibrations and increases the power of its punches."
+538,Throh,Judo Pokémon,"4'03""",122.4 lbs.,"When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger."
+539,Sawk,Karate Pokémon,"4'07""",112.4 lbs.,"Desiring the strongest karate chop, they seclude themselves in mountains and train without sleeping."
+540,Sewaddle,Sewing Pokémon,"1'00""",5.5 lbs.,"Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers."
+541,Swadloon,Leaf-Wrapped Pokémon,"1'08""",16.1 lbs.,"Preferring dark, damp places, it spends the entire day eating fallen leaves that lie around it."
+542,Leavanny,Nurturing Pokémon,"3'11""",45.2 lbs.,"Upon finding a small Pokémon, it weaves clothing for it from leaves by using the sticky silk secreted from its mouth."
+543,Venipede,Centipede Pokémon,"1'04""",11.7 lbs.,"Using the feelers on its head and tail, it picks up vibrations in the air to determine its prey's location and state."
+544,Whirlipede,Curlipede Pokémon,"3'11""",129.0 lbs.,"Storing energy for evolution, it sits. But, when predators approach, it moves to stab them with poison spikes."
+545,Scolipede,Megapede Pokémon,"8'02""",442.0 lbs.,It clasps its prey with the claws on its neck until it stops moving. Then it finishes it off with deadly poison.
+546,Cottonee,Cotton Puff Pokémon,"1'00""",1.3 lbs.,"Perhaps because they feel more at ease in a group, they stick to others they find. They end up looking like a cloud."
+547,Whimsicott,Windveiled Pokémon,"2'04""",14.6 lbs.,"They appear along with whirlwinds. They pull pranks, such as moving furniture and leaving balls of cotton in homes."
+548,Petilil,Bulb Pokémon,"1'08""",14.6 lbs.,The leaves on its head grow right back even if they fall out. These bitter leaves refresh those who eat them.
+549,Lilligant,Flowering Pokémon,"3'07""",35.9 lbs.,"The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult."
+550,Basculin (red strip),Hostile Pokémon,"3'03""",39.7 lbs.,Red- and blue-striped Basculin are very violent and always fighting. They are also remarkably tasty.
+551,Sandile,Desert Croc Pokémon,"2'04""",33.5 lbs.,They live hidden under hot desert sands in order to keep their body temperature from dropping.
+552,Krokorok,Desert Croc Pokémon,"3'03""",73.6 lbs.,"Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals."
+553,Krookodile,Intimidation Pokémon,"4'11""",212.3 lbs.,"Very violent Pokémon, they try to clamp down on anything that moves in front of their eyes."
+554,Darumaka,Zen Charm Pokémon,"2'00""",82.7 lbs.,"When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100° F."
+555,Darmanitan,Blazing Pokémon,"4'03""",204.8 lbs.,"When one is injured in a fierce battle, it hardens into a stone-like form. Then it meditates and sharpens its mind."
+556,Maractus,Cactus Pokémon,"3'03""",61.7 lbs.,"When it moves rhythmically, it makes a sound similar to maracas, making the surprised Pokémon flee."
+557,Dwebble,Rock Inn Pokémon,"1'00""",32.0 lbs.,"When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into."
+558,Crustle,Stone Home Pokémon,"4'07""",440.9 lbs.,"When its boulder is broken in battles for territory, it feels unsure and begins to weaken."
+559,Scraggy,Shedding Pokémon,"2'00""",26.0 lbs.,"Proud of its sturdy skull, it suddenly headbutts everything, but its weight makes it unstable, too."
+560,Scrafty,Hoodlum Pokémon,"3'07""",66.1 lbs.,"It pulls up its shed skin to protect itself while it kicks. The bigger the crest, the more respected it is."
+561,Sigilyph,Avianoid Pokémon,"4'07""",30.9 lbs.,"The guardians of an ancient city, they always fly the same route while keeping watch for invaders."
+562,Yamask,Spirit Pokémon,"1'08""",3.3 lbs.,These Pokémon arose from the spirits of people interred in graves. Each retains memories of its former life.
+563,Cofagrigus,Coffin Pokémon,"5'07""",168.7 lbs.,Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.
+564,Tirtouga,Prototurtle Pokémon,"2'04""",36.4 lbs.,This Pokémon was restored from a fossil. It swam skillfully and dove to depths beyond half a mile.
+565,Carracosta,Prototurtle Pokémon,"3'11""",178.6 lbs.,"It could knock out a foe with a slap from one of its developed front appendages and chew it up, shell or bones and all."
+566,Archen,First Bird Pokémon,"1'08""",20.9 lbs.,"It was revived from an ancient fossil. Not able to fly, it lived in treetops and hopped from one branch to another."
+567,Archeops,First Bird Pokémon,"4'07""",70.5 lbs.,It runs better than it flies. It takes off into the sky by running at a speed of 25 mph.
+568,Trubbish,Trash Bag Pokémon,"2'00""",68.3 lbs.,"Wanting more garbage, they follow people who litter. They always belch poison gas."
+569,Garbodor,Trash Heap Pokémon,"6'03""",236.6 lbs.,Consuming garbage makes new kinds of poison gases and liquids inside their bodies.
+570,Zorua,Tricky Fox Pokémon,"2'04""",27.6 lbs.,"It changes so it looks just like its foe, tricks it, and then uses that opportunity to flee."
+571,Zoroark,Illusion Fox Pokémon,"5'03""",178.8 lbs.,Stories say those who tried to catch Zoroark were trapped in an illusion and punished.
+572,Minccino,Chinchilla Pokémon,"1'04""",12.8 lbs.,Minccino greet each other by grooming one another thoroughly with their tails.
+573,Cinccino,Scarf Pokémon,"1'08""",16.5 lbs.,"Cinccino's body is coated in a special oil that helps it deflect attacks, such as punches."
+574,Gothita,Fixation Pokémon,"1'04""",12.8 lbs.,It stares intently at everything. It can become so obsessed with watching that it doesn't notice attacks.
+575,Gothorita,Manipulate Pokémon,"2'04""",39.7 lbs.,"According to many old tales, it creates friends for itself by controlling sleeping children on starry nights."
+576,Gothitelle,Astral Body Pokémon,"4'11""",97.0 lbs.,"It can see the future from the movement of the stars. When it learns its Trainer's life span, it cries in sadness."
+577,Solosis,Cell Pokémon,"1'00""",2.2 lbs.,"Because their bodies are enveloped in a special liquid, they are fine in any environment, no matter how severe."
+578,Duosion,Mitosis Pokémon,"2'00""",17.6 lbs.,"When their two divided brains think the same thoughts, their psychic power is maximized."
+579,Reuniclus,Multiplying Pokémon,"3'03""",44.3 lbs.,"They use psychic power to control their arms, which are made of a special liquid. They can crush boulders psychically."
+580,Ducklett,Water Bird Pokémon,"1'08""",12.1 lbs.,"They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater."
+581,Swanna,White Bird Pokémon,"4'03""",53.4 lbs.,"Despite their elegant appearance, they can flap their wings strongly and fly for thousands of miles."
+582,Vanillite,Fresh Snow Pokémon,"1'04""",12.6 lbs.,"Theoretically, this Pokémon formed from icicles bathed in energy from the morning sun. Their breath is -58° F."
+583,Vanillish,Icy Snow Pokémon,"3'07""",90.4 lbs.,"They cool down the surrounding air and create ice particles, which they use to freeze their foes."
+584,Vanilluxe,Snowstorm Pokémon,"4'03""",126.8 lbs.,"Swallowing large amounts of water, they make snow clouds inside their bodies and, when angry, cause violent blizzards."
+585,Deerling,Season Pokémon,"2'00""",43.0 lbs.,Their coloring changes according to the seasons and can be slightly affected by the temperature and humidity as well.
+586,Sawsbuck,Season Pokémon,"6'03""",203.9 lbs.,"They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring."
+587,Emolga,Sky Squirrel Pokémon,"1'04""",11.0 lbs.,It glides on its outstretched membrane while shocking foes with the electricity stored in the pouches on its cheeks.
+588,Karrablast,Clamping Pokémon,"1'08""",13.0 lbs.,For some reason they evolve when they receive electrical energy while they are attacking Shelmet.
+589,Escavalier,Cavalry Pokémon,"3'03""",72.8 lbs.,"Wearing the shell covering they stole from Shelmet, they defend themselves and attack with two lances."
+590,Foongus,Mushroom Pokémon,"0'08""",2.2 lbs.,It lures Pokémon with its pattern that looks just like a Poké Ball then releases poison spores.
+591,Amoonguss,Mushroom Pokémon,"2'00""",23.1 lbs.,It moves the caps on both arms and does a dance to lure prey. It prefers damp places.
+592,Frillish,Floating Pokémon,"3'11""",72.8 lbs.,"If its veil-like arms stun and wrap a foe, that foe will be dragged miles below the surface, never to return."
+593,Jellicent,Floating Pokémon,"7'03""",297.6 lbs.,Its body is mostly seawater. It's said there's a castle of ships Jellicent have sunk on the seafloor.
+594,Alomomola,Caring Pokémon,"3'11""",69.7 lbs.,It gently holds injured and weak Pokémon in its fins. Its special membrane heals their wounds.
+595,Joltik,Attaching Pokémon,"0'04""",1.3 lbs.,"Since it can't generate its own electricity, it sticks onto large-bodied Pokémon and absorbs static electricity."
+596,Galvantula,EleSpider Pokémon,"2'07""",31.5 lbs.,It creates barriers from electrified silk that stun foes. This works as a weapon as well as a defense.
+597,Ferroseed,Thorn Seed Pokémon,"2'00""",41.4 lbs.,It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.
+598,Ferrothorn,Thorn Pod Pokémon,"3'03""",242.5 lbs.,"By swinging around its three spiky feelers and shooting spikes, it can obliterate an opponent."
+599,Klink,Gear Pokémon,"1'00""",46.3 lbs.,Two bodies comprise a fixed pair. They spin around each other to generate energy.
+600,Klang,Gear Pokémon,"2'00""",112.4 lbs.,"A minigear and big gear comprise its body. If the minigear it launches at a foe doesn't return, it will die."
+601,Klinklang,Gear Pokémon,"2'00""",178.6 lbs.,The minigear spins at high speed. Then the energy from the red core charges the minigear to make it ready to fire.
+602,Tynamo,EleFish Pokémon,"0'08""",0.7 lbs.,"One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock."
+603,Eelektrik,EleFish Pokémon,"3'11""",48.5 lbs.,It wraps itself around its prey and paralyzes it with electricity from the round spots on its sides. Then it chomps.
+604,Eelektross,EleFish Pokémon,"6'11""",177.5 lbs.,"It latches on to prey with its sucker mouth, sinking in its fangs and shocking the prey with powerful electricity."
+605,Elgyem,Cerebral Pokémon,"1'08""",19.8 lbs.,Rumors of its origin are linked to a UFO crash site in the desert 50 years ago.
+606,Beheeyem,Cerebral Pokémon,"3'03""",76.1 lbs.,"Apparently, it communicates by flashing its three fingers, but those patterns haven't been decoded."
+607,Litwick,Candle Pokémon,"1'00""",6.8 lbs.,"Its flame is usually out, but it starts shining when it absorbs life force from people or Pokémon."
+608,Lampent,Lamp Pokémon,"2'00""",28.7 lbs.,The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on.
+609,Chandelure,Luring Pokémon,"3'03""",75.6 lbs.,The spirits burned up in its ominous flame lose their way and wander this world forever.
+610,Axew,Tusk Pokémon,"2'00""",39.7 lbs.,"Its large tusks have a tendency to break, but each time they grow back, they grow in harder and sturdier."
+611,Fraxure,Axe Jaw Pokémon,"3'03""",79.4 lbs.,"A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle."
+612,Haxorus,Axe Jaw Pokémon,"5'11""",232.6 lbs.,"Its tusks are incredibly destructive. They can easily slice through a thick, sturdy steel column every time."
+613,Cubchoo,Chill Pokémon,"1'08""",18.7 lbs.,"Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases."
+614,Beartic,Freezing Pokémon,"8'06""",573.2 lbs.,They love the cold seas of the north. They create pathways across the ocean waters by freezing their own breath.
+615,Cryogonal,Crystallizing Pokémon,"3'07""",326.3 lbs.,"They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148° F."
+616,Shelmet,Snail Pokémon,"1'04""",17.0 lbs.,"When it and Karrablast are together, and both receive electrical stimulation, they both evolve."
+617,Accelgor,Shell Out Pokémon,"2'07""",55.8 lbs.,"When its body dries out, it weakens. So it wraps a membrane around itself for protection while it spits poison."
+618,Stunfisk,Trap Pokémon,"2'04""",24.3 lbs.,"When its opponent can't be paralyzed, it contorts itself with unexpected speed and flops away."
+619,Mienfoo,Martial Arts Pokémon,"2'11""",44.1 lbs.,"It takes pride in the speed at which it can use moves. What it loses in power, it makes up for in quantity."
+620,Mienshao,Martial Arts Pokémon,"4'07""",78.3 lbs.,"Using the long fur on its arms like whips, it launches into combo attacks that, once started, no one can stop."
+621,Druddigon,Cave Pokémon,"5'03""",306.4 lbs.,It runs through the narrow tunnels formed by Excadrill and Onix. It uses its sharp claws to catch prey.
+622,Golett,Automaton Pokémon,"3'03""",202.8 lbs.,Ancient science fashioned this Pokémon from clay. It's been active for thousands of years.
+623,Golurk,Automaton Pokémon,"9'02""",727.5 lbs.,Golurk were created to protect people and Pokémon. They run on a mysterious energy.
+624,Pawniard,Sharp Blade Pokémon,"1'08""",22.5 lbs.,"Ignoring their injuries, groups attack by sinking the blades that cover their bodies into their prey."
+625,Bisharp,Sword Blade Pokémon,"5'03""",154.3 lbs.,This pitiless Pokémon commands a group of Pawniard to hound prey into immobility. It then moves in to finish the prey off.
+626,Bouffalant,Bash Buffalo Pokémon,"5'03""",208.6 lbs.,"They are known to charge so wildly that if a train were to enter their territory, they would send it flying."
+627,Rufflet,Eaglet Pokémon,"1'08""",23.1 lbs.,"It stands up to massive opponents, not out of courage, but out of recklessness. But that is how it gets stronger."
+628,Braviary,Valiant Pokémon,"4'11""",90.4 lbs.,"For the sake of its friends, this brave warrior of the sky will not stop battling, even if injured."
+629,Vullaby,Diapered Pokémon,"1'08""",19.8 lbs.,Their wings are too tiny to allow them to fly. They guard their posteriors with bones that were gathered by Mandibuzz.
+630,Mandibuzz,Bone Vulture Pokémon,"3'11""",87.1 lbs.,"They fly in circles around the sky. When they spot prey, they attack and carry it back to their nest with ease."
+631,Heatmor,Anteater Pokémon,"4'07""",127.9 lbs.,"It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them."
+632,Durant,Iron Ant Pokémon,"1'00""",72.8 lbs.,"Individuals each play different roles in driving Heatmor, their natural predator, away from their colony."
+633,Deino,Irate Pokémon,"2'07""",38.1 lbs.,"Lacking sight, it's unaware of its surroundings, so it bumps into things and eats anything that moves."
+634,Zweilous,Hostile Pokémon,"4'07""",110.2 lbs.,The two heads do not get along. Whichever head eats more than the other gets to be the leader.
+635,Hydreigon,Brutal Pokémon,"5'11""",352.7 lbs.,"It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!"
+636,Larvesta,Torch Pokémon,"3'07""",63.5 lbs.,"Said to have been born from the sun, it spews fire from its horns and encases itself in a cocoon of fire when it evolves."
+637,Volcarona,Sun Pokémon,"5'03""",101.4 lbs.,"Thought to be an embodiment of the sun, it appeared during a bitterly cold winter and saved Pokémon from freezing."
+638,Cobalion,Iron Will Pokémon,"6'11""",551.2 lbs.,It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.
+639,Terrakion,Cavern Pokémon,"6'03""",573.2 lbs.,"Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon."
+640,Virizion,Grassland Pokémon,"6'07""",440.9 lbs.,Legends say this Pokémon confounded opponents with its swift movements.
+641,Tornadus (Incarnate Forme),Cyclone Pokémon,"4'11""",138.9 lbs.,"In every direction it flies, creating winds so powerful, they blow everything away."
+642,Thundurus (Incarnate Forme),Bolt Strike Pokémon,"4'11""",134.5 lbs.,"As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked."
+643,Reshiram,Vast White Pokémon,"10'06""",727.5 lbs.,This legendary Pokémon can scorch the world with fire. It helps those who want to build a world of truth.
+644,Zekrom,Deep Black Pokémon,"9'06""",760.6 lbs.,This legendary Pokémon can scorch the world with lightning. It assists those who want to build an ideal world.
+645,Landorus  (Incarnate Forme),Abundance Pokémon,"4'11""",149.9 lbs.,"From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant."
+646,Kyurem,Boundary Pokémon,"9'10""",716.5 lbs.,This legendary ice Pokémon waits for a hero to fill in the missing parts of its body with truth or ideals.
+647,Keldeo (Ordinary Form),Colt Pokémon,"4'07""",106.9 lbs.,"When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow."
+648,Meloetta (Voice Form),Melody Pokémon,"2'00""",14.3 lbs.,The melodies sung by Meloetta have the power to make Pokémon that hear them happy or sad.
+649,Genesect,Paleozoic Pokémon,"4'11""",181.9 lbs.,This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.
+650,Egg,,,,
+651,Bad Egg ,,,,
+652,UFO,,,,
+653,Brycen-Man,,,,
+654,MT,,,,
+655,MT2,,,,
+656,Transport,,,,
+657,Giant ⑮,,,,
+658,Humanoid,,,,
+659,Monster,,,,
+660,F-00,,,,
+661,Spirit,,,,
+662,White Door,,,,
+663,Black Door,,,,
+664,Prop U1,,,,
+665,Prop U2,,,,
+666,Prop H1,,,,
+667,Prop M1,,,,
+668,Prop M2,,,,
+669,Prop T1,,,,
+670,Prop O1,,,,
+671,Prop O2,,,,
+672,Prop C1,,,,
+673,Prop C2,,,,
+674,Prop G1,,,,
+675,Prop W1,,,,
+676,Prop W2,,,,
+677,Prop R1,,,,
+678,Prop R2,,,,
+679,Prop K1,,,,
+680,UFO 2,,,,
+681,Giant ⑮ 2,,,,
+682,F-002,,,,
+683,Black Belt,,,,
+684,Smeargle 2,,,,
+685,Deoxys (Attack Form),,,,
+686,Deoxys (Defense Form),,,,
+687,Deoxys (Spped Form),,,,
+688,Wormadam (Sand Cloak),,,,
+689,Wormadam (Trash Cloak),,,,
+690,Shaymin (Sky form),,,,
+691,Giratina (Origin Form),,,,
+692,Heat Rotom,,,,
+693,Wash Rotom,,,,
+694,Frost Rotom,,,,
+695,Fan Rotom,,,,
+696,Mow Rotom,,,,
+697,Castform (Sunny Form),,,,
+698,Castform (Rainny Form),,,,
+699,Castform (Snowy Form),,,,
+700,Basculin (blue strip),,,,
+701,Darmanitan (Zen Mode),,,,
+702,Meloetta (Pirouette Forme),,,,
+703,White Kyurem,,,,
+704,Black Kyurem,,,,
+705,Keldeo (Resolute Form),,,,
+706,Tornadus (Therian Forme),,,,
+707,Thundurus (Therian Forme),,,,
+708,Landorus (Therian Forme),,,,
