@@ -1,0 +1,15 @@
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\bin\AHGE.exe.config
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\bin\data\Item_bw.csv
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\bin\data\Item_bw2.csv
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\bin\data\Locate_bw2_1.csv
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\bin\data\Poke_2_bw_hdgr.csv
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\bin\AHGE.exe
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\bin\AHGE.pdb
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\AHGE\obj\Release\AHGE.csprojResolveAssemblyReference.cache
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\AHGE\obj\Release\Percobaan.Form1.resources
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\AHGE\obj\Release\AHGE.Popup.Batch.resources
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\AHGE\obj\Release\AHGE.Form2.resources
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\AHGE\obj\Release\AHGE.Properties.Resources.resources
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\AHGE\obj\Release\AHGE.csproj.GenerateResource.Cache
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\AHGE\obj\Release\AHGE.exe
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\AHGE\obj\Release\AHGE.pdb

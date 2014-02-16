@@ -12,3 +12,10 @@ F:\projectZ\Tools\__MyProgram\AHGE 1.1\aleafia_resicon\obj\Release\aleafia_resic
 F:\projectZ\Tools\__MyProgram\AHGE 1.1\aleafia_resicon\obj\Release\aleafia_resicon.csproj.GenerateResource.Cache
 F:\projectZ\Tools\__MyProgram\AHGE 1.1\aleafia_resicon\obj\Release\aleafia_resicon.dll
 F:\projectZ\Tools\__MyProgram\AHGE 1.1\aleafia_resicon\obj\Release\aleafia_resicon.pdb
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\bin\aleafia_resicon.dll
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\bin\aleafia_resicon.pdb
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\aleafia_resicon\obj\Release\aleafia_resicon.csprojResolveAssemblyReference.cache
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\aleafia_resicon\obj\Release\aleafia_resicon.Properties.Resources.resources
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\aleafia_resicon\obj\Release\aleafia_resicon.csproj.GenerateResource.Cache
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\aleafia_resicon\obj\Release\aleafia_resicon.dll
+E:\dokumen\gitproject\niDocument\Source code old tool\AHGE 1.1\aleafia_resicon\obj\Release\aleafia_resicon.pdb

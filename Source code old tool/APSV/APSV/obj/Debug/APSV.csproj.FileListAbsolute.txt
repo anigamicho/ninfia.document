@@ -14,3 +14,17 @@ C:\Users\Andi\documents\visual studio 2012\Projects\APSV\APSV\obj\Debug\APSV.pop
 C:\Users\Andi\documents\visual studio 2012\Projects\APSV\APSV\obj\Debug\APSV.pop_up.Locationlist.resources
 F:\projectZ\Tools\__MyProgram\_Standalone Tool (released)\APSV\APSV\obj\Debug\APSV.exe
 F:\projectZ\Tools\__MyProgram\_Standalone Tool (released)\APSV\APSV\obj\Debug\APSV.pdb
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\obj\Debug\APSV.exe
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\obj\Debug\APSV.pdb
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\bin\Debug\data\apse_item2list.csv
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\bin\Debug\data\apse_move.csv
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\bin\Debug\data\apse_pnature.csv
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\bin\Debug\data\apse_pokelist.csv
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\bin\Debug\APSV.exe
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\bin\Debug\APSV.pdb
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\obj\Debug\APSV.csprojResolveAssemblyReference.cache
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\obj\Debug\APSV.Form1.resources
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\obj\Debug\APSV.pop_up.Locationlist.resources
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\obj\Debug\APSV.pop_up.offsetview.resources
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\obj\Debug\APSV.Properties.Resources.resources
+E:\dokumen\gitproject\niDocument\Source code old tool\APSV\APSV\obj\Debug\APSV.csproj.GenerateResource.Cache
